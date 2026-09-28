@@ -1,0 +1,3358 @@
+MotorID,MotorType,MotorAnnualPremium
+M100001,Telematics,414
+M100002,Third Party,712
+M100003,Comprehensive,659
+M100004,Comprehensive,1163
+M100005,Third Party,637
+M100006,Third Party,943
+M100007,Comprehensive,927
+M100008,Comprehensive,819
+M100009,Comprehensive,810
+M100012,Comprehensive,350
+M100013,Comprehensive,1144
+M100014,Comprehensive,603
+M100015,Third Party,495
+M100016,Comprehensive,492
+M100018,Comprehensive,667
+M100020,Comprehensive,885
+M100021,Third Party,804
+M100022,Comprehensive,1090
+M100023,Third Party,1072
+M100024,Third Party,605
+M100026,Comprehensive,1078
+M100028,Comprehensive,941
+M100029,Telematics,1113
+M100032,Telematics,280
+M100033,Comprehensive,783
+M100034,Third Party,886
+M100035,Comprehensive,514
+M100036,Comprehensive,915
+M100037,Comprehensive,984
+M100039,Third Party,414
+M100040,Telematics,1206
+M100041,Third Party,1197
+M100042,Third Party,556
+M100043,Comprehensive,473
+M100045,Telematics,472
+M100046,Comprehensive,315
+M100047,Telematics,301
+M100048,Comprehensive,583
+M100049,Comprehensive,926
+M100050,Third Party,940
+M100051,Comprehensive,808
+M100052,Comprehensive,910
+M100054,Third Party,410
+M100055,Third Party,1245
+M100056,Comprehensive,473
+M100057,Comprehensive,635
+M100058,Third Party,922
+M100059,Comprehensive,403
+M100060,Comprehensive,702
+M100062,Third Party,1185
+M100064,Telematics,506
+M100068,Comprehensive,881
+M100069,Third Party,867
+M100070,Comprehensive,354
+M100071,Third Party,331
+M100073,Third Party,422
+M100074,Comprehensive,295
+M100075,Comprehensive,795
+M100076,Telematics,533
+M100077,Third Party,860
+M100078,Third Party,560
+M100081,Comprehensive,619
+M100082,Comprehensive,381
+M100083,Comprehensive,1051
+M100084,Comprehensive,391
+M100085,Comprehensive,1165
+M100086,Comprehensive,442
+M100087,Third Party,1240
+M100089,Comprehensive,982
+M100090,Third Party,1078
+M100091,Comprehensive,1061
+M100092,Comprehensive,712
+M100093,Comprehensive,456
+M100094,Third Party,936
+M100095,Third Party,917
+M100096,Comprehensive,1062
+M100097,Telematics,506
+M100098,Comprehensive,1074
+M100099,Comprehensive,1133
+M100100,Third Party,989
+M100101,Comprehensive,540
+M100103,Third Party,519
+M100105,Telematics,405
+M100106,Third Party,1084
+M100109,Comprehensive,705
+M100110,Comprehensive,577
+M100111,Telematics,429
+M100114,Comprehensive,759
+M100115,Comprehensive,472
+M100116,Telematics,1090
+M100117,Third Party,608
+M100118,Comprehensive,712
+M100119,Third Party,920
+M100120,Comprehensive,958
+M100121,Telematics,393
+M100122,Third Party,354
+M100123,Comprehensive,555
+M100124,Comprehensive,1004
+M100125,Comprehensive,1112
+M100126,Comprehensive,1223
+M100127,Third Party,545
+M100128,Comprehensive,1020
+M100129,Telematics,443
+M100130,Comprehensive,463
+M100131,Comprehensive,797
+M100132,Third Party,374
+M100133,Third Party,312
+M100134,Comprehensive,1245
+M100135,Comprehensive,1059
+M100136,Comprehensive,935
+M100137,Third Party,495
+M100139,Telematics,354
+M100141,Third Party,408
+M100142,Third Party,688
+M100143,Third Party,1063
+M100145,Third Party,855
+M100146,Third Party,1097
+M100147,Comprehensive,1161
+M100148,Comprehensive,992
+M100149,Telematics,376
+M100150,Telematics,507
+M100152,Third Party,607
+M100153,Comprehensive,791
+M100155,Third Party,1049
+M100156,Comprehensive,1219
+M100157,Comprehensive,1233
+M100159,Comprehensive,743
+M100160,Third Party,1241
+M100161,Comprehensive,1201
+M100162,Third Party,441
+M100163,Third Party,936
+M100164,Comprehensive,705
+M100165,Comprehensive,1099
+M100167,Third Party,1122
+M100168,Telematics,466
+M100169,Telematics,865
+M100170,Comprehensive,1178
+M100171,Third Party,927
+M100172,Third Party,1107
+M100173,Comprehensive,981
+M100174,Third Party,1041
+M100175,Comprehensive,1101
+M100177,Third Party,1192
+M100178,Comprehensive,472
+M100179,Comprehensive,1045
+M100180,Comprehensive,652
+M100181,Comprehensive,839
+M100182,Comprehensive,917
+M100185,Comprehensive,909
+M100187,Comprehensive,470
+M100189,Comprehensive,1076
+M100190,Comprehensive,973
+M100191,Comprehensive,1006
+M100192,Telematics,877
+M100193,Comprehensive,854
+M100195,Third Party,549
+M100197,Comprehensive,860
+M100198,Comprehensive,552
+M100199,Telematics,1133
+M100200,Third Party,328
+M100201,Third Party,289
+M100202,Comprehensive,986
+M100205,Comprehensive,976
+M100207,Comprehensive,822
+M100208,Comprehensive,828
+M100209,Telematics,313
+M100210,Comprehensive,1093
+M100212,Comprehensive,1101
+M100213,Comprehensive,479
+M100215,Comprehensive,295
+M100216,Comprehensive,789
+M100217,Comprehensive,525
+M100218,Telematics,403
+M100219,Third Party,389
+M100220,Comprehensive,919
+M100221,Comprehensive,628
+M100222,Third Party,1020
+M100224,Comprehensive,584
+M100225,Telematics,884
+M100227,Third Party,543
+M100228,Comprehensive,818
+M100229,Third Party,957
+M100230,Comprehensive,613
+M100231,Comprehensive,1141
+M100232,Third Party,900
+M100234,Comprehensive,475
+M100235,Comprehensive,1152
+M100236,Telematics,763
+M100238,Third Party,979
+M100239,Comprehensive,615
+M100241,Telematics,302
+M100242,Comprehensive,826
+M100243,Third Party,773
+M100244,Comprehensive,982
+M100245,Comprehensive,994
+M100246,Third Party,947
+M100248,Comprehensive,769
+M100249,Telematics,285
+M100250,Comprehensive,853
+M100251,Telematics,1201
+M100252,Comprehensive,1164
+M100253,Comprehensive,358
+M100254,Comprehensive,1127
+M100255,Comprehensive,420
+M100256,Third Party,358
+M100259,Third Party,305
+M100261,Third Party,775
+M100262,Comprehensive,451
+M100263,Comprehensive,883
+M100264,Comprehensive,732
+M100265,Third Party,1106
+M100267,Telematics,484
+M100268,Comprehensive,537
+M100269,Comprehensive,782
+M100270,Comprehensive,415
+M100271,Comprehensive,724
+M100273,Third Party,859
+M100275,Comprehensive,878
+M100276,Third Party,733
+M100277,Comprehensive,377
+M100279,Comprehensive,529
+M100280,Comprehensive,349
+M100281,Comprehensive,1194
+M100282,Third Party,843
+M100283,Telematics,588
+M100284,Comprehensive,572
+M100285,Comprehensive,333
+M100286,Third Party,738
+M100287,Third Party,337
+M100289,Third Party,960
+M100290,Comprehensive,475
+M100294,Third Party,377
+M100295,Comprehensive,393
+M100296,Comprehensive,307
+M100297,Telematics,662
+M100298,Comprehensive,337
+M100299,Comprehensive,358
+M100300,Comprehensive,492
+M100301,Comprehensive,824
+M100302,Telematics,493
+M100303,Comprehensive,676
+M100304,Comprehensive,696
+M100305,Third Party,859
+M100306,Comprehensive,325
+M100307,Comprehensive,1239
+M100308,Comprehensive,369
+M100309,Comprehensive,1242
+M100310,Comprehensive,556
+M100311,Third Party,684
+M100312,Comprehensive,344
+M100313,Third Party,636
+M100314,Telematics,1151
+M100315,Comprehensive,941
+M100316,Comprehensive,884
+M100317,Comprehensive,636
+M100318,Comprehensive,1178
+M100320,Comprehensive,1034
+M100321,Comprehensive,524
+M100322,Comprehensive,863
+M100323,Comprehensive,664
+M100324,Comprehensive,473
+M100325,Third Party,916
+M100326,Comprehensive,682
+M100327,Third Party,374
+M100328,Third Party,1117
+M100329,Comprehensive,868
+M100330,Third Party,816
+M100331,Comprehensive,1249
+M100332,Third Party,968
+M100333,Comprehensive,1229
+M100334,Comprehensive,968
+M100336,Comprehensive,444
+M100337,Third Party,747
+M100338,Third Party,773
+M100339,Comprehensive,566
+M100340,Comprehensive,580
+M100341,Comprehensive,858
+M100342,Comprehensive,679
+M100343,Comprehensive,389
+M100344,Third Party,843
+M100346,Third Party,859
+M100349,Third Party,1072
+M100351,Comprehensive,379
+M100352,Third Party,723
+M100353,Telematics,1154
+M100355,Comprehensive,536
+M100356,Third Party,1001
+M100357,Comprehensive,613
+M100358,Comprehensive,455
+M100359,Telematics,969
+M100361,Comprehensive,1041
+M100362,Telematics,1167
+M100363,Third Party,984
+M100364,Telematics,577
+M100365,Third Party,986
+M100366,Third Party,311
+M100367,Comprehensive,605
+M100368,Comprehensive,486
+M100370,Telematics,787
+M100371,Comprehensive,949
+M100372,Comprehensive,848
+M100373,Telematics,455
+M100375,Comprehensive,645
+M100377,Third Party,367
+M100378,Comprehensive,823
+M100379,Comprehensive,1000
+M100380,Third Party,516
+M100381,Comprehensive,792
+M100382,Third Party,1128
+M100384,Comprehensive,390
+M100385,Comprehensive,1211
+M100386,Telematics,601
+M100387,Comprehensive,596
+M100388,Comprehensive,972
+M100390,Comprehensive,612
+M100391,Telematics,673
+M100392,Telematics,489
+M100393,Comprehensive,410
+M100394,Comprehensive,1118
+M100395,Telematics,374
+M100396,Telematics,438
+M100397,Comprehensive,1080
+M100398,Third Party,1054
+M100399,Comprehensive,489
+M100400,Comprehensive,1087
+M100402,Third Party,983
+M100403,Third Party,586
+M100405,Comprehensive,356
+M100406,Third Party,1033
+M100407,Comprehensive,940
+M100408,Telematics,719
+M100409,Comprehensive,545
+M100410,Telematics,617
+M100411,Comprehensive,544
+M100413,Comprehensive,1146
+M100414,Third Party,477
+M100415,Comprehensive,719
+M100416,Comprehensive,901
+M100419,Third Party,333
+M100420,Comprehensive,766
+M100421,Third Party,895
+M100422,Comprehensive,791
+M100423,Comprehensive,918
+M100424,Comprehensive,753
+M100425,Comprehensive,895
+M100426,Comprehensive,1228
+M100427,Comprehensive,629
+M100428,Comprehensive,626
+M100429,Comprehensive,938
+M100430,Third Party,366
+M100432,Comprehensive,562
+M100434,Comprehensive,441
+M100435,Comprehensive,730
+M100436,Telematics,397
+M100437,Comprehensive,490
+M100438,Telematics,692
+M100439,Comprehensive,874
+M100440,Telematics,697
+M100441,Comprehensive,1066
+M100442,Comprehensive,1055
+M100443,Comprehensive,374
+M100444,Telematics,954
+M100445,Comprehensive,306
+M100446,Third Party,448
+M100447,Comprehensive,1018
+M100448,Third Party,845
+M100450,Third Party,593
+M100451,Comprehensive,428
+M100452,Third Party,594
+M100453,Third Party,1035
+M100454,Comprehensive,827
+M100455,Comprehensive,406
+M100457,Comprehensive,752
+M100458,Third Party,475
+M100459,Comprehensive,397
+M100460,Third Party,363
+M100461,Comprehensive,1017
+M100462,Telematics,435
+M100463,Third Party,450
+M100464,Comprehensive,1120
+M100465,Third Party,1081
+M100466,Third Party,767
+M100467,Comprehensive,1021
+M100468,Comprehensive,302
+M100469,Comprehensive,442
+M100470,Comprehensive,622
+M100471,Comprehensive,1015
+M100472,Comprehensive,367
+M100473,Comprehensive,921
+M100474,Comprehensive,348
+M100475,Comprehensive,1232
+M100480,Comprehensive,482
+M100481,Comprehensive,970
+M100482,Comprehensive,883
+M100484,Comprehensive,658
+M100485,Third Party,1020
+M100486,Third Party,881
+M100487,Telematics,716
+M100488,Telematics,922
+M100489,Third Party,558
+M100490,Third Party,1003
+M100491,Comprehensive,959
+M100492,Third Party,734
+M100493,Comprehensive,918
+M100496,Third Party,1082
+M100497,Comprehensive,902
+M100498,Telematics,558
+M100499,Comprehensive,548
+M100500,Third Party,1214
+M100504,Telematics,1064
+M100505,Telematics,581
+M100506,Comprehensive,975
+M100509,Comprehensive,316
+M100510,Third Party,951
+M100512,Comprehensive,474
+M100513,Comprehensive,581
+M100514,Third Party,1179
+M100515,Telematics,414
+M100516,Comprehensive,1046
+M100517,Comprehensive,670
+M100518,Third Party,706
+M100519,Third Party,727
+M100520,Telematics,1158
+M100521,Third Party,765
+M100522,Comprehensive,519
+M100523,Third Party,287
+M100524,Telematics,506
+M100526,Comprehensive,433
+M100527,Comprehensive,405
+M100528,Third Party,1243
+M100529,Comprehensive,709
+M100530,Telematics,1249
+M100531,Comprehensive,778
+M100532,Comprehensive,492
+M100533,Telematics,420
+M100535,Comprehensive,1017
+M100537,Comprehensive,391
+M100538,Comprehensive,330
+M100541,Telematics,658
+M100542,Telematics,585
+M100543,Comprehensive,505
+M100544,Third Party,778
+M100545,Third Party,837
+M100546,Comprehensive,701
+M100550,Comprehensive,788
+M100551,Telematics,928
+M100552,Comprehensive,437
+M100553,Comprehensive,638
+M100554,Comprehensive,292
+M100556,Third Party,1219
+M100557,Comprehensive,905
+M100558,Comprehensive,1058
+M100559,Comprehensive,1029
+M100560,Telematics,285
+M100561,Comprehensive,753
+M100563,Comprehensive,1123
+M100564,Comprehensive,838
+M100565,Comprehensive,859
+M100566,Third Party,1212
+M100567,Comprehensive,1007
+M100568,Third Party,1024
+M100571,Comprehensive,1054
+M100572,Telematics,603
+M100573,Third Party,1224
+M100575,Comprehensive,1104
+M100576,Third Party,311
+M100577,Third Party,812
+M100578,Telematics,520
+M100579,Telematics,786
+M100580,Third Party,1064
+M100581,Comprehensive,951
+M100582,Comprehensive,1055
+M100583,Telematics,696
+M100584,Telematics,355
+M100585,Comprehensive,1134
+M100587,Third Party,356
+M100588,Comprehensive,442
+M100590,Comprehensive,980
+M100591,Comprehensive,689
+M100592,Comprehensive,742
+M100593,Third Party,342
+M100594,Comprehensive,445
+M100597,Third Party,964
+M100598,Third Party,829
+M100599,Third Party,542
+M100600,Comprehensive,668
+M100601,Comprehensive,692
+M100602,Third Party,1175
+M100603,Third Party,1139
+M100604,Comprehensive,745
+M100605,Comprehensive,460
+M100606,Telematics,830
+M100607,Comprehensive,282
+M100609,Comprehensive,907
+M100610,Telematics,840
+M100612,Third Party,1151
+M100614,Comprehensive,704
+M100615,Telematics,824
+M100617,Comprehensive,333
+M100618,Third Party,1079
+M100621,Third Party,567
+M100622,Comprehensive,1014
+M100624,Telematics,511
+M100625,Third Party,617
+M100627,Comprehensive,532
+M100628,Third Party,1151
+M100629,Third Party,1045
+M100630,Comprehensive,962
+M100631,Comprehensive,575
+M100632,Comprehensive,991
+M100633,Telematics,754
+M100634,Comprehensive,973
+M100635,Comprehensive,537
+M100636,Third Party,803
+M100637,Comprehensive,1202
+M100639,Comprehensive,356
+M100640,Comprehensive,1030
+M100642,Comprehensive,957
+M100644,Telematics,690
+M100645,Comprehensive,1162
+M100646,Comprehensive,985
+M100647,Comprehensive,791
+M100648,Telematics,585
+M100649,Comprehensive,945
+M100650,Comprehensive,359
+M100651,Third Party,529
+M100652,Comprehensive,697
+M100654,Third Party,497
+M100655,Comprehensive,827
+M100656,Telematics,1125
+M100658,Third Party,618
+M100659,Third Party,674
+M100660,Telematics,669
+M100661,Third Party,982
+M100662,Comprehensive,972
+M100663,Third Party,507
+M100664,Third Party,1148
+M100665,Comprehensive,908
+M100666,Comprehensive,1147
+M100668,Comprehensive,1129
+M100669,Telematics,838
+M100670,Third Party,962
+M100671,Third Party,890
+M100672,Third Party,871
+M100673,Third Party,796
+M100674,Telematics,504
+M100675,Comprehensive,640
+M100677,Comprehensive,964
+M100679,Third Party,996
+M100680,Third Party,733
+M100681,Third Party,387
+M100683,Telematics,410
+M100685,Third Party,1147
+M100686,Comprehensive,402
+M100687,Comprehensive,555
+M100688,Comprehensive,340
+M100689,Third Party,492
+M100690,Comprehensive,1094
+M100692,Comprehensive,545
+M100693,Comprehensive,1090
+M100694,Third Party,1067
+M100695,Comprehensive,959
+M100697,Third Party,540
+M100698,Comprehensive,1247
+M100699,Third Party,871
+M100700,Third Party,1026
+M100701,Comprehensive,612
+M100702,Third Party,923
+M100703,Third Party,916
+M100704,Comprehensive,859
+M100706,Telematics,853
+M100707,Third Party,961
+M100708,Comprehensive,1247
+M100711,Comprehensive,1123
+M100712,Comprehensive,581
+M100713,Comprehensive,1142
+M100715,Comprehensive,619
+M100716,Third Party,521
+M100717,Telematics,472
+M100718,Comprehensive,962
+M100719,Third Party,729
+M100720,Third Party,1083
+M100721,Third Party,1092
+M100722,Third Party,802
+M100723,Comprehensive,484
+M100724,Third Party,388
+M100725,Comprehensive,1212
+M100726,Comprehensive,577
+M100728,Comprehensive,292
+M100729,Comprehensive,664
+M100730,Comprehensive,1060
+M100731,Comprehensive,368
+M100732,Comprehensive,950
+M100733,Comprehensive,683
+M100734,Comprehensive,1158
+M100735,Comprehensive,715
+M100737,Third Party,786
+M100738,Third Party,723
+M100740,Telematics,940
+M100741,Telematics,348
+M100743,Telematics,327
+M100744,Third Party,844
+M100745,Comprehensive,662
+M100746,Comprehensive,442
+M100748,Telematics,1027
+M100749,Telematics,1006
+M100750,Comprehensive,385
+M100751,Comprehensive,458
+M100752,Comprehensive,1038
+M100753,Comprehensive,743
+M100754,Comprehensive,579
+M100756,Comprehensive,793
+M100757,Comprehensive,622
+M100758,Third Party,370
+M100759,Third Party,907
+M100761,Telematics,955
+M100762,Comprehensive,355
+M100763,Comprehensive,521
+M100764,Third Party,885
+M100766,Third Party,1014
+M100767,Telematics,1166
+M100768,Comprehensive,865
+M100771,Comprehensive,370
+M100772,Comprehensive,622
+M100773,Comprehensive,525
+M100774,Comprehensive,1237
+M100775,Comprehensive,293
+M100776,Comprehensive,644
+M100777,Comprehensive,782
+M100778,Third Party,570
+M100779,Comprehensive,989
+M100780,Telematics,407
+M100781,Third Party,1178
+M100782,Comprehensive,668
+M100783,Comprehensive,636
+M100784,Comprehensive,1175
+M100786,Comprehensive,424
+M100788,Third Party,734
+M100789,Telematics,308
+M100790,Comprehensive,776
+M100791,Comprehensive,595
+M100793,Telematics,998
+M100794,Comprehensive,776
+M100795,Comprehensive,886
+M100796,Comprehensive,1153
+M100797,Comprehensive,1201
+M100800,Comprehensive,489
+M100801,Telematics,766
+M100802,Third Party,1037
+M100803,Comprehensive,403
+M100804,Telematics,746
+M100806,Comprehensive,820
+M100808,Comprehensive,1121
+M100809,Telematics,365
+M100810,Third Party,1117
+M100811,Third Party,510
+M100812,Comprehensive,1111
+M100813,Comprehensive,915
+M100814,Telematics,669
+M100816,Comprehensive,409
+M100817,Telematics,615
+M100818,Third Party,997
+M100819,Comprehensive,481
+M100820,Telematics,929
+M100821,Telematics,501
+M100822,Telematics,358
+M100823,Comprehensive,877
+M100824,Third Party,1068
+M100825,Comprehensive,1213
+M100826,Comprehensive,766
+M100827,Telematics,867
+M100829,Telematics,940
+M100831,Comprehensive,679
+M100832,Third Party,315
+M100833,Telematics,515
+M100834,Third Party,647
+M100836,Comprehensive,912
+M100837,Comprehensive,575
+M100838,Comprehensive,484
+M100839,Telematics,1158
+M100841,Comprehensive,370
+M100842,Comprehensive,1044
+M100843,Third Party,370
+M100844,Third Party,590
+M100845,Telematics,1104
+M100846,Third Party,1096
+M100847,Third Party,650
+M100848,Telematics,297
+M100850,Third Party,1192
+M100851,Third Party,1141
+M100852,Comprehensive,761
+M100853,Comprehensive,307
+M100856,Comprehensive,950
+M100857,Telematics,1039
+M100859,Comprehensive,1082
+M100860,Comprehensive,988
+M100861,Telematics,1128
+M100862,Third Party,775
+M100863,Third Party,437
+M100864,Third Party,948
+M100865,Comprehensive,490
+M100866,Comprehensive,891
+M100867,Third Party,425
+M100868,Telematics,318
+M100869,Comprehensive,712
+M100870,Comprehensive,854
+M100871,Comprehensive,430
+M100872,Comprehensive,1041
+M100873,Comprehensive,911
+M100875,Comprehensive,1056
+M100879,Comprehensive,631
+M100880,Third Party,919
+M100881,Third Party,1215
+M100882,Comprehensive,456
+M100883,Comprehensive,1072
+M100885,Comprehensive,890
+M100886,Third Party,982
+M100887,Comprehensive,886
+M100888,Telematics,948
+M100889,Comprehensive,1036
+M100890,Third Party,318
+M100893,Comprehensive,310
+M100894,Third Party,361
+M100896,Third Party,1181
+M100897,Comprehensive,699
+M100898,Comprehensive,1241
+M100899,Comprehensive,1167
+M100900,Comprehensive,614
+M100901,Telematics,371
+M100903,Third Party,1097
+M100904,Third Party,687
+M100905,Comprehensive,568
+M100906,Comprehensive,1050
+M100907,Third Party,747
+M100908,Comprehensive,590
+M100910,Comprehensive,664
+M100911,Comprehensive,1181
+M100912,Comprehensive,573
+M100913,Telematics,1186
+M100914,Comprehensive,851
+M100915,Comprehensive,335
+M100916,Comprehensive,389
+M100917,Comprehensive,877
+M100919,Comprehensive,412
+M100920,Comprehensive,421
+M100922,Comprehensive,729
+M100925,Comprehensive,707
+M100927,Third Party,1193
+M100928,Comprehensive,1150
+M100929,Third Party,1182
+M100930,Comprehensive,351
+M100931,Comprehensive,1059
+M100932,Telematics,1189
+M100933,Comprehensive,873
+M100935,Comprehensive,1244
+M100936,Comprehensive,1058
+M100937,Comprehensive,930
+M100938,Third Party,673
+M100939,Third Party,625
+M100940,Comprehensive,663
+M100941,Comprehensive,523
+M100942,Comprehensive,841
+M100943,Comprehensive,699
+M100944,Third Party,568
+M100945,Third Party,454
+M100946,Comprehensive,780
+M100947,Comprehensive,299
+M100948,Third Party,642
+M100949,Comprehensive,340
+M100952,Telematics,605
+M100953,Third Party,923
+M100954,Comprehensive,898
+M100955,Third Party,300
+M100956,Comprehensive,966
+M100958,Comprehensive,572
+M100959,Telematics,741
+M100960,Third Party,936
+M100961,Comprehensive,315
+M100963,Third Party,449
+M100964,Comprehensive,440
+M100965,Third Party,602
+M100967,Telematics,295
+M100968,Third Party,310
+M100969,Comprehensive,776
+M100971,Comprehensive,389
+M100972,Telematics,702
+M100973,Comprehensive,499
+M100974,Telematics,1245
+M100975,Comprehensive,402
+M100977,Comprehensive,745
+M100978,Comprehensive,737
+M100979,Comprehensive,996
+M100980,Comprehensive,403
+M100981,Comprehensive,1215
+M100982,Telematics,576
+M100983,Comprehensive,313
+M100984,Third Party,981
+M100985,Comprehensive,806
+M100986,Third Party,914
+M100987,Comprehensive,1164
+M100988,Telematics,651
+M100990,Comprehensive,1160
+M100991,Comprehensive,1183
+M100992,Comprehensive,811
+M100993,Comprehensive,1043
+M100994,Comprehensive,312
+M100998,Third Party,868
+M100999,Comprehensive,358
+M101001,Third Party,703
+M101002,Comprehensive,1007
+M101003,Third Party,338
+M101004,Comprehensive,674
+M101005,Third Party,680
+M101006,Telematics,511
+M101007,Comprehensive,808
+M101008,Comprehensive,1063
+M101009,Third Party,1241
+M101011,Comprehensive,1159
+M101012,Comprehensive,1203
+M101013,Comprehensive,477
+M101014,Comprehensive,388
+M101015,Telematics,457
+M101016,Comprehensive,1229
+M101017,Comprehensive,491
+M101018,Comprehensive,1011
+M101019,Comprehensive,673
+M101020,Third Party,941
+M101021,Third Party,1010
+M101022,Telematics,1156
+M101023,Comprehensive,364
+M101025,Comprehensive,595
+M101026,Comprehensive,394
+M101028,Third Party,667
+M101029,Third Party,633
+M101030,Third Party,1124
+M101031,Telematics,962
+M101032,Comprehensive,380
+M101033,Telematics,712
+M101034,Telematics,967
+M101036,Comprehensive,998
+M101038,Comprehensive,1065
+M101039,Third Party,497
+M101040,Comprehensive,1138
+M101041,Comprehensive,1156
+M101043,Comprehensive,492
+M101045,Third Party,920
+M101046,Telematics,938
+M101047,Third Party,1133
+M101048,Telematics,363
+M101049,Comprehensive,505
+M101050,Third Party,1115
+M101051,Comprehensive,314
+M101052,Comprehensive,747
+M101053,Telematics,564
+M101054,Third Party,885
+M101055,Third Party,738
+M101056,Comprehensive,1105
+M101057,Comprehensive,355
+M101059,Third Party,770
+M101060,Comprehensive,783
+M101062,Comprehensive,773
+M101064,Third Party,355
+M101065,Comprehensive,730
+M101066,Comprehensive,1134
+M101067,Comprehensive,862
+M101068,Comprehensive,385
+M101070,Comprehensive,975
+M101071,Comprehensive,1180
+M101072,Comprehensive,1061
+M101073,Comprehensive,370
+M101074,Comprehensive,308
+M101076,Telematics,450
+M101077,Comprehensive,617
+M101078,Third Party,1177
+M101079,Third Party,699
+M101080,Comprehensive,1221
+M101081,Comprehensive,375
+M101084,Telematics,1018
+M101085,Comprehensive,1009
+M101086,Third Party,1210
+M101087,Third Party,787
+M101088,Third Party,867
+M101089,Comprehensive,281
+M101090,Comprehensive,1135
+M101091,Comprehensive,892
+M101093,Third Party,959
+M101094,Comprehensive,608
+M101095,Telematics,355
+M101096,Third Party,985
+M101097,Comprehensive,990
+M101098,Comprehensive,454
+M101099,Telematics,1079
+M101100,Comprehensive,281
+M101101,Comprehensive,913
+M101102,Comprehensive,364
+M101103,Comprehensive,1009
+M101104,Comprehensive,707
+M101105,Third Party,597
+M101107,Third Party,1005
+M101108,Comprehensive,1059
+M101109,Comprehensive,865
+M101111,Comprehensive,991
+M101112,Third Party,294
+M101113,Comprehensive,1076
+M101115,Telematics,853
+M101116,Third Party,432
+M101119,Third Party,747
+M101120,Comprehensive,888
+M101121,Third Party,1052
+M101122,Comprehensive,782
+M101123,Third Party,528
+M101124,Telematics,526
+M101125,Telematics,977
+M101127,Third Party,1116
+M101128,Third Party,892
+M101130,Comprehensive,1055
+M101131,Comprehensive,884
+M101133,Third Party,756
+M101134,Telematics,673
+M101137,Telematics,754
+M101139,Telematics,292
+M101140,Comprehensive,841
+M101141,Third Party,462
+M101142,Third Party,1153
+M101143,Comprehensive,1098
+M101144,Comprehensive,759
+M101145,Third Party,878
+M101146,Comprehensive,316
+M101147,Third Party,840
+M101148,Telematics,1104
+M101150,Third Party,789
+M101151,Comprehensive,1114
+M101152,Comprehensive,354
+M101153,Third Party,1225
+M101154,Third Party,617
+M101155,Comprehensive,306
+M101157,Comprehensive,880
+M101158,Telematics,876
+M101159,Comprehensive,401
+M101161,Third Party,616
+M101162,Telematics,1173
+M101164,Third Party,463
+M101165,Telematics,350
+M101166,Third Party,1077
+M101168,Comprehensive,939
+M101169,Comprehensive,763
+M101170,Comprehensive,572
+M101171,Comprehensive,1125
+M101172,Third Party,1117
+M101173,Comprehensive,280
+M101174,Comprehensive,1082
+M101175,Third Party,738
+M101176,Comprehensive,603
+M101177,Comprehensive,617
+M101178,Third Party,728
+M101179,Comprehensive,836
+M101181,Comprehensive,1210
+M101182,Comprehensive,304
+M101183,Third Party,869
+M101184,Third Party,343
+M101185,Third Party,285
+M101186,Comprehensive,573
+M101187,Third Party,1033
+M101188,Comprehensive,615
+M101189,Third Party,630
+M101190,Comprehensive,1155
+M101192,Comprehensive,547
+M101193,Comprehensive,1024
+M101196,Comprehensive,1087
+M101197,Comprehensive,908
+M101198,Comprehensive,1218
+M101199,Telematics,1234
+M101200,Third Party,340
+M101201,Third Party,445
+M101202,Comprehensive,658
+M101203,Comprehensive,926
+M101204,Telematics,551
+M101206,Comprehensive,898
+M101207,Third Party,1150
+M101208,Third Party,286
+M101209,Comprehensive,1121
+M101210,Third Party,751
+M101211,Third Party,1154
+M101212,Telematics,939
+M101213,Comprehensive,321
+M101214,Comprehensive,1155
+M101215,Third Party,328
+M101216,Comprehensive,522
+M101217,Comprehensive,814
+M101218,Third Party,1156
+M101219,Comprehensive,441
+M101221,Telematics,802
+M101222,Telematics,389
+M101223,Comprehensive,609
+M101224,Comprehensive,532
+M101225,Comprehensive,695
+M101226,Comprehensive,968
+M101227,Comprehensive,979
+M101228,Telematics,931
+M101229,Comprehensive,306
+M101230,Comprehensive,1041
+M101231,Comprehensive,907
+M101233,Comprehensive,340
+M101235,Third Party,1198
+M101236,Third Party,1023
+M101237,Comprehensive,951
+M101238,Comprehensive,755
+M101239,Telematics,1050
+M101240,Third Party,583
+M101241,Comprehensive,983
+M101242,Comprehensive,871
+M101243,Comprehensive,871
+M101245,Comprehensive,1055
+M101246,Comprehensive,448
+M101247,Third Party,380
+M101248,Comprehensive,818
+M101249,Third Party,1063
+M101251,Third Party,525
+M101252,Third Party,832
+M101253,Third Party,1208
+M101254,Comprehensive,881
+M101256,Third Party,356
+M101257,Third Party,1132
+M101259,Comprehensive,1226
+M101260,Telematics,968
+M101261,Telematics,872
+M101264,Third Party,846
+M101265,Comprehensive,884
+M101266,Third Party,605
+M101268,Comprehensive,905
+M101269,Comprehensive,775
+M101270,Comprehensive,1048
+M101271,Third Party,1091
+M101272,Third Party,968
+M101273,Comprehensive,1245
+M101274,Comprehensive,715
+M101275,Comprehensive,1013
+M101277,Comprehensive,612
+M101278,Comprehensive,1046
+M101281,Comprehensive,539
+M101282,Comprehensive,958
+M101283,Comprehensive,293
+M101284,Third Party,1023
+M101285,Comprehensive,561
+M101286,Third Party,515
+M101287,Comprehensive,603
+M101288,Comprehensive,691
+M101289,Comprehensive,404
+M101290,Comprehensive,819
+M101291,Comprehensive,400
+M101293,Third Party,812
+M101294,Comprehensive,637
+M101296,Comprehensive,859
+M101297,Comprehensive,426
+M101300,Comprehensive,1224
+M101301,Third Party,294
+M101302,Comprehensive,1109
+M101303,Comprehensive,621
+M101304,Third Party,1082
+M101305,Comprehensive,858
+M101306,Comprehensive,1085
+M101307,Third Party,818
+M101308,Comprehensive,1049
+M101310,Telematics,915
+M101311,Third Party,938
+M101312,Comprehensive,834
+M101313,Comprehensive,528
+M101314,Comprehensive,1103
+M101315,Third Party,1110
+M101316,Comprehensive,981
+M101317,Third Party,551
+M101318,Comprehensive,675
+M101319,Third Party,983
+M101320,Telematics,461
+M101321,Comprehensive,387
+M101323,Comprehensive,670
+M101324,Comprehensive,810
+M101325,Third Party,1146
+M101326,Comprehensive,589
+M101327,Third Party,489
+M101329,Third Party,963
+M101330,Telematics,1128
+M101331,Third Party,1109
+M101332,Third Party,893
+M101333,Comprehensive,295
+M101335,Comprehensive,913
+M101336,Third Party,390
+M101337,Third Party,1043
+M101338,Third Party,1177
+M101339,Comprehensive,872
+M101340,Comprehensive,512
+M101341,Comprehensive,569
+M101342,Comprehensive,988
+M101346,Comprehensive,1017
+M101347,Comprehensive,1068
+M101348,Comprehensive,378
+M101349,Comprehensive,998
+M101350,Comprehensive,1211
+M101351,Telematics,311
+M101352,Telematics,698
+M101353,Comprehensive,993
+M101354,Third Party,793
+M101355,Comprehensive,1212
+M101356,Telematics,935
+M101357,Third Party,637
+M101358,Comprehensive,883
+M101359,Comprehensive,968
+M101360,Telematics,1038
+M101361,Telematics,548
+M101362,Comprehensive,1168
+M101363,Third Party,1247
+M101364,Comprehensive,489
+M101365,Third Party,482
+M101366,Comprehensive,653
+M101367,Comprehensive,576
+M101368,Comprehensive,460
+M101370,Third Party,442
+M101373,Comprehensive,968
+M101374,Third Party,1206
+M101375,Telematics,372
+M101377,Comprehensive,834
+M101378,Telematics,551
+M101379,Third Party,519
+M101380,Third Party,834
+M101381,Comprehensive,410
+M101382,Comprehensive,360
+M101383,Telematics,1128
+M101384,Third Party,712
+M101385,Third Party,340
+M101386,Comprehensive,1130
+M101387,Comprehensive,903
+M101388,Comprehensive,996
+M101389,Third Party,871
+M101390,Telematics,739
+M101391,Comprehensive,1028
+M101392,Comprehensive,614
+M101393,Comprehensive,941
+M101394,Comprehensive,1135
+M101395,Comprehensive,1091
+M101396,Comprehensive,817
+M101398,Third Party,316
+M101399,Comprehensive,294
+M101400,Telematics,697
+M101401,Telematics,922
+M101402,Comprehensive,358
+M101404,Third Party,678
+M101405,Comprehensive,673
+M101406,Comprehensive,725
+M101407,Comprehensive,824
+M101408,Comprehensive,550
+M101409,Third Party,855
+M101410,Third Party,719
+M101412,Third Party,1177
+M101414,Third Party,594
+M101415,Third Party,1174
+M101416,Third Party,1213
+M101417,Telematics,580
+M101418,Third Party,675
+M101419,Comprehensive,958
+M101420,Comprehensive,724
+M101421,Comprehensive,971
+M101423,Comprehensive,531
+M101424,Third Party,1208
+M101425,Telematics,957
+M101426,Telematics,361
+M101429,Comprehensive,515
+M101430,Comprehensive,878
+M101431,Comprehensive,564
+M101434,Third Party,675
+M101435,Third Party,907
+M101436,Third Party,616
+M101437,Telematics,1157
+M101438,Comprehensive,878
+M101439,Comprehensive,686
+M101441,Third Party,551
+M101442,Comprehensive,566
+M101443,Comprehensive,314
+M101444,Comprehensive,363
+M101446,Third Party,1034
+M101447,Telematics,1025
+M101448,Comprehensive,364
+M101449,Comprehensive,815
+M101451,Telematics,598
+M101452,Comprehensive,956
+M101453,Third Party,857
+M101454,Telematics,1055
+M101456,Comprehensive,885
+M101459,Comprehensive,473
+M101460,Comprehensive,926
+M101462,Comprehensive,1089
+M101463,Comprehensive,1244
+M101464,Comprehensive,962
+M101465,Comprehensive,669
+M101466,Third Party,773
+M101467,Comprehensive,413
+M101468,Comprehensive,897
+M101470,Comprehensive,413
+M101471,Third Party,532
+M101473,Comprehensive,774
+M101475,Comprehensive,744
+M101476,Telematics,652
+M101477,Third Party,907
+M101479,Third Party,1165
+M101481,Third Party,1175
+M101482,Comprehensive,775
+M101483,Comprehensive,815
+M101484,Comprehensive,718
+M101485,Third Party,1150
+M101486,Telematics,1116
+M101487,Third Party,332
+M101488,Comprehensive,1052
+M101489,Third Party,309
+M101490,Third Party,972
+M101491,Comprehensive,608
+M101492,Comprehensive,791
+M101493,Comprehensive,1039
+M101494,Comprehensive,507
+M101495,Third Party,408
+M101497,Comprehensive,830
+M101498,Third Party,1092
+M101499,Comprehensive,392
+M101500,Comprehensive,655
+M101501,Third Party,800
+M101502,Third Party,500
+M101503,Third Party,1105
+M101504,Third Party,860
+M101505,Third Party,779
+M101506,Comprehensive,414
+M101507,Third Party,346
+M101509,Comprehensive,440
+M101510,Third Party,310
+M101511,Third Party,798
+M101512,Comprehensive,1114
+M101513,Comprehensive,1015
+M101514,Third Party,497
+M101515,Comprehensive,470
+M101516,Third Party,789
+M101517,Third Party,1034
+M101519,Comprehensive,1033
+M101520,Third Party,786
+M101521,Telematics,525
+M101522,Comprehensive,748
+M101523,Comprehensive,995
+M101524,Third Party,1133
+M101525,Third Party,353
+M101526,Third Party,1030
+M101527,Third Party,1006
+M101528,Third Party,486
+M101529,Comprehensive,342
+M101530,Comprehensive,579
+M101531,Third Party,548
+M101532,Comprehensive,389
+M101533,Telematics,529
+M101534,Comprehensive,469
+M101535,Comprehensive,1144
+M101536,Third Party,363
+M101537,Comprehensive,798
+M101538,Comprehensive,596
+M101539,Telematics,1097
+M101540,Third Party,740
+M101541,Comprehensive,844
+M101542,Comprehensive,664
+M101543,Third Party,1062
+M101544,Comprehensive,927
+M101545,Comprehensive,814
+M101546,Comprehensive,664
+M101547,Third Party,716
+M101548,Comprehensive,525
+M101549,Third Party,918
+M101550,Comprehensive,566
+M101551,Third Party,557
+M101553,Comprehensive,732
+M101554,Comprehensive,1171
+M101555,Third Party,706
+M101556,Comprehensive,1160
+M101557,Telematics,790
+M101558,Third Party,350
+M101559,Comprehensive,846
+M101560,Third Party,1169
+M101561,Telematics,1135
+M101562,Comprehensive,456
+M101564,Comprehensive,539
+M101565,Third Party,940
+M101567,Comprehensive,703
+M101568,Third Party,1078
+M101569,Comprehensive,784
+M101570,Third Party,514
+M101571,Comprehensive,601
+M101572,Comprehensive,389
+M101575,Telematics,557
+M101576,Comprehensive,1013
+M101577,Comprehensive,495
+M101578,Third Party,709
+M101579,Comprehensive,454
+M101580,Comprehensive,752
+M101581,Third Party,1216
+M101582,Telematics,1019
+M101583,Comprehensive,1021
+M101584,Telematics,526
+M101586,Third Party,578
+M101587,Comprehensive,374
+M101588,Third Party,1173
+M101589,Comprehensive,1209
+M101590,Third Party,608
+M101591,Third Party,958
+M101593,Comprehensive,484
+M101594,Comprehensive,912
+M101597,Comprehensive,372
+M101598,Comprehensive,602
+M101599,Telematics,661
+M101601,Third Party,1245
+M101602,Third Party,733
+M101603,Comprehensive,495
+M101604,Comprehensive,325
+M101605,Third Party,452
+M101606,Comprehensive,515
+M101607,Comprehensive,588
+M101608,Comprehensive,412
+M101610,Telematics,996
+M101612,Third Party,655
+M101613,Comprehensive,509
+M101614,Telematics,789
+M101615,Third Party,583
+M101616,Third Party,943
+M101617,Comprehensive,793
+M101618,Comprehensive,1184
+M101619,Comprehensive,910
+M101620,Third Party,635
+M101621,Third Party,424
+M101622,Comprehensive,378
+M101623,Comprehensive,915
+M101624,Comprehensive,311
+M101625,Third Party,649
+M101627,Comprehensive,299
+M101628,Third Party,615
+M101629,Telematics,1137
+M101630,Third Party,356
+M101631,Comprehensive,1225
+M101632,Third Party,1224
+M101633,Telematics,1117
+M101634,Third Party,952
+M101635,Comprehensive,453
+M101636,Comprehensive,376
+M101638,Comprehensive,1171
+M101640,Comprehensive,635
+M101641,Third Party,716
+M101642,Comprehensive,357
+M101643,Third Party,338
+M101644,Third Party,805
+M101645,Comprehensive,673
+M101646,Comprehensive,959
+M101647,Comprehensive,1089
+M101648,Comprehensive,334
+M101649,Telematics,1221
+M101650,Comprehensive,1174
+M101651,Comprehensive,836
+M101652,Comprehensive,642
+M101654,Third Party,441
+M101655,Third Party,507
+M101656,Telematics,960
+M101657,Comprehensive,405
+M101658,Comprehensive,1216
+M101659,Third Party,421
+M101660,Comprehensive,1012
+M101661,Comprehensive,1104
+M101662,Telematics,566
+M101663,Third Party,745
+M101664,Comprehensive,839
+M101665,Telematics,1054
+M101666,Comprehensive,329
+M101669,Comprehensive,500
+M101671,Comprehensive,425
+M101672,Comprehensive,588
+M101674,Comprehensive,932
+M101676,Third Party,680
+M101677,Telematics,757
+M101678,Third Party,720
+M101679,Telematics,285
+M101680,Comprehensive,374
+M101681,Comprehensive,500
+M101682,Comprehensive,323
+M101683,Comprehensive,1077
+M101684,Comprehensive,1246
+M101685,Comprehensive,750
+M101686,Telematics,926
+M101687,Comprehensive,334
+M101688,Third Party,333
+M101689,Comprehensive,866
+M101690,Comprehensive,1029
+M101692,Third Party,1181
+M101693,Comprehensive,630
+M101695,Comprehensive,685
+M101697,Third Party,1052
+M101698,Third Party,416
+M101699,Comprehensive,1201
+M101702,Comprehensive,568
+M101703,Comprehensive,305
+M101704,Comprehensive,1046
+M101705,Telematics,1215
+M101707,Comprehensive,747
+M101708,Comprehensive,440
+M101709,Third Party,426
+M101710,Third Party,568
+M101711,Comprehensive,797
+M101712,Third Party,888
+M101713,Third Party,957
+M101714,Comprehensive,974
+M101715,Comprehensive,513
+M101716,Third Party,445
+M101717,Comprehensive,1202
+M101718,Comprehensive,412
+M101719,Third Party,774
+M101721,Comprehensive,557
+M101722,Comprehensive,989
+M101723,Comprehensive,595
+M101724,Comprehensive,377
+M101725,Third Party,588
+M101727,Comprehensive,377
+M101728,Comprehensive,446
+M101729,Third Party,738
+M101730,Third Party,1221
+M101731,Comprehensive,477
+M101732,Comprehensive,1054
+M101735,Comprehensive,784
+M101736,Telematics,1230
+M101738,Comprehensive,784
+M101741,Comprehensive,380
+M101742,Third Party,677
+M101743,Third Party,353
+M101744,Telematics,495
+M101745,Comprehensive,799
+M101746,Telematics,1153
+M101747,Comprehensive,876
+M101749,Third Party,633
+M101750,Comprehensive,896
+M101751,Telematics,516
+M101752,Telematics,370
+M101753,Third Party,991
+M101754,Third Party,1098
+M101755,Comprehensive,873
+M101756,Comprehensive,755
+M101757,Comprehensive,724
+M101758,Third Party,637
+M101759,Comprehensive,1220
+M101760,Comprehensive,769
+M101762,Comprehensive,1125
+M101763,Third Party,319
+M101764,Comprehensive,621
+M101765,Comprehensive,488
+M101766,Comprehensive,392
+M101767,Comprehensive,1248
+M101768,Comprehensive,330
+M101769,Comprehensive,815
+M101770,Third Party,490
+M101771,Comprehensive,356
+M101772,Telematics,1233
+M101773,Comprehensive,564
+M101774,Comprehensive,620
+M101776,Telematics,459
+M101777,Telematics,945
+M101778,Comprehensive,1176
+M101779,Comprehensive,609
+M101781,Comprehensive,1062
+M101782,Third Party,676
+M101783,Comprehensive,810
+M101784,Comprehensive,1056
+M101785,Comprehensive,1203
+M101786,Comprehensive,870
+M101787,Telematics,641
+M101788,Comprehensive,734
+M101789,Telematics,1119
+M101790,Comprehensive,622
+M101791,Telematics,733
+M101792,Third Party,1032
+M101793,Comprehensive,1103
+M101795,Comprehensive,713
+M101796,Comprehensive,1153
+M101797,Third Party,1116
+M101798,Comprehensive,729
+M101800,Third Party,549
+M101801,Telematics,452
+M101802,Comprehensive,397
+M101803,Third Party,466
+M101804,Telematics,346
+M101805,Third Party,560
+M101808,Comprehensive,1241
+M101810,Comprehensive,496
+M101811,Comprehensive,653
+M101812,Comprehensive,656
+M101814,Comprehensive,784
+M101815,Telematics,771
+M101816,Comprehensive,843
+M101817,Comprehensive,364
+M101819,Comprehensive,591
+M101820,Telematics,1162
+M101821,Comprehensive,1226
+M101822,Comprehensive,282
+M101825,Third Party,891
+M101826,Comprehensive,414
+M101828,Comprehensive,799
+M101829,Third Party,288
+M101830,Third Party,1013
+M101831,Comprehensive,1236
+M101832,Comprehensive,399
+M101833,Third Party,678
+M101834,Comprehensive,468
+M101837,Telematics,470
+M101838,Comprehensive,1049
+M101839,Comprehensive,395
+M101840,Third Party,400
+M101841,Comprehensive,639
+M101842,Comprehensive,579
+M101843,Comprehensive,1226
+M101844,Telematics,662
+M101845,Comprehensive,812
+M101846,Comprehensive,380
+M101849,Comprehensive,623
+M101850,Comprehensive,479
+M101851,Comprehensive,633
+M101852,Third Party,574
+M101853,Telematics,393
+M101855,Telematics,817
+M101856,Comprehensive,781
+M101857,Comprehensive,783
+M101858,Comprehensive,691
+M101860,Comprehensive,789
+M101861,Third Party,986
+M101862,Comprehensive,533
+M101863,Comprehensive,466
+M101864,Third Party,937
+M101865,Third Party,413
+M101866,Telematics,620
+M101867,Comprehensive,844
+M101868,Telematics,846
+M101870,Comprehensive,999
+M101871,Comprehensive,737
+M101872,Comprehensive,762
+M101873,Third Party,323
+M101874,Comprehensive,1046
+M101875,Third Party,509
+M101876,Comprehensive,1095
+M101879,Telematics,905
+M101880,Comprehensive,1169
+M101881,Third Party,1128
+M101882,Telematics,646
+M101883,Third Party,662
+M101884,Telematics,1157
+M101885,Third Party,1136
+M101886,Comprehensive,967
+M101887,Third Party,1175
+M101888,Third Party,886
+M101889,Comprehensive,303
+M101890,Comprehensive,817
+M101892,Comprehensive,638
+M101893,Comprehensive,299
+M101895,Telematics,819
+M101896,Telematics,823
+M101897,Third Party,989
+M101898,Comprehensive,1035
+M101899,Comprehensive,592
+M101901,Comprehensive,1238
+M101902,Comprehensive,708
+M101903,Third Party,700
+M101904,Comprehensive,455
+M101905,Comprehensive,1240
+M101906,Comprehensive,662
+M101907,Telematics,445
+M101908,Comprehensive,1101
+M101910,Comprehensive,1209
+M101911,Comprehensive,487
+M101912,Comprehensive,851
+M101913,Third Party,1157
+M101914,Third Party,922
+M101915,Third Party,703
+M101916,Comprehensive,836
+M101917,Telematics,378
+M101918,Third Party,1233
+M101919,Telematics,777
+M101920,Comprehensive,322
+M101921,Telematics,607
+M101922,Third Party,678
+M101923,Comprehensive,1244
+M101925,Comprehensive,1128
+M101926,Comprehensive,574
+M101928,Third Party,442
+M101929,Comprehensive,321
+M101930,Third Party,832
+M101931,Third Party,712
+M101932,Third Party,787
+M101934,Comprehensive,544
+M101935,Telematics,1063
+M101936,Comprehensive,781
+M101938,Third Party,1170
+M101939,Comprehensive,512
+M101940,Comprehensive,531
+M101941,Comprehensive,848
+M101942,Third Party,952
+M101943,Third Party,566
+M101944,Comprehensive,811
+M101945,Comprehensive,775
+M101947,Third Party,922
+M101948,Comprehensive,897
+M101949,Comprehensive,474
+M101950,Third Party,390
+M101951,Comprehensive,544
+M101952,Comprehensive,402
+M101953,Comprehensive,813
+M101954,Third Party,776
+M101956,Third Party,282
+M101959,Comprehensive,1080
+M101960,Comprehensive,974
+M101961,Comprehensive,732
+M101962,Comprehensive,436
+M101963,Comprehensive,436
+M101965,Comprehensive,1183
+M101966,Third Party,508
+M101967,Comprehensive,1114
+M101968,Telematics,923
+M101969,Telematics,884
+M101970,Comprehensive,1090
+M101971,Third Party,1144
+M101972,Third Party,542
+M101973,Comprehensive,1237
+M101974,Comprehensive,404
+M101976,Telematics,1031
+M101978,Comprehensive,654
+M101981,Third Party,887
+M101982,Third Party,1089
+M101983,Comprehensive,715
+M101984,Comprehensive,359
+M101986,Telematics,1069
+M101987,Comprehensive,407
+M101988,Comprehensive,963
+M101989,Comprehensive,706
+M101990,Third Party,738
+M101992,Third Party,534
+M101993,Comprehensive,765
+M101994,Third Party,461
+M101995,Telematics,502
+M101996,Comprehensive,739
+M101997,Third Party,1044
+M101999,Comprehensive,778
+M102000,Comprehensive,1131
+M102001,Comprehensive,546
+M102002,Comprehensive,295
+M102003,Telematics,578
+M102004,Comprehensive,388
+M102005,Third Party,787
+M102007,Comprehensive,1241
+M102009,Comprehensive,754
+M102010,Telematics,452
+M102011,Third Party,846
+M102012,Comprehensive,994
+M102013,Comprehensive,1124
+M102014,Comprehensive,746
+M102015,Telematics,691
+M102016,Comprehensive,785
+M102017,Comprehensive,487
+M102018,Third Party,385
+M102019,Telematics,1028
+M102020,Comprehensive,413
+M102021,Third Party,948
+M102022,Comprehensive,840
+M102023,Third Party,737
+M102024,Comprehensive,646
+M102025,Telematics,1234
+M102026,Third Party,1053
+M102027,Telematics,438
+M102028,Comprehensive,1222
+M102029,Telematics,405
+M102030,Comprehensive,1067
+M102031,Comprehensive,693
+M102032,Comprehensive,673
+M102033,Third Party,769
+M102034,Comprehensive,747
+M102035,Third Party,402
+M102036,Third Party,431
+M102037,Third Party,993
+M102039,Third Party,954
+M102040,Third Party,661
+M102041,Comprehensive,713
+M102042,Third Party,651
+M102044,Comprehensive,1111
+M102046,Third Party,347
+M102047,Third Party,912
+M102049,Comprehensive,578
+M102050,Comprehensive,445
+M102051,Comprehensive,432
+M102052,Third Party,678
+M102053,Telematics,420
+M102054,Comprehensive,936
+M102055,Telematics,598
+M102056,Comprehensive,1112
+M102057,Telematics,421
+M102058,Telematics,620
+M102059,Comprehensive,651
+M102060,Telematics,929
+M102061,Comprehensive,567
+M102062,Comprehensive,448
+M102063,Third Party,673
+M102064,Comprehensive,1157
+M102065,Comprehensive,1069
+M102066,Comprehensive,837
+M102068,Third Party,1245
+M102069,Third Party,1025
+M102070,Third Party,1022
+M102071,Telematics,664
+M102072,Telematics,760
+M102073,Third Party,1192
+M102074,Telematics,1178
+M102075,Comprehensive,978
+M102076,Third Party,374
+M102077,Comprehensive,429
+M102080,Comprehensive,723
+M102081,Comprehensive,813
+M102083,Comprehensive,884
+M102084,Telematics,543
+M102086,Comprehensive,1036
+M102087,Telematics,1088
+M102088,Comprehensive,482
+M102089,Third Party,1039
+M102090,Comprehensive,426
+M102091,Telematics,759
+M102092,Comprehensive,1131
+M102094,Third Party,572
+M102095,Telematics,944
+M102096,Third Party,1107
+M102097,Third Party,756
+M102098,Comprehensive,1104
+M102099,Comprehensive,898
+M102101,Comprehensive,770
+M102103,Comprehensive,394
+M102104,Comprehensive,975
+M102106,Third Party,581
+M102107,Telematics,556
+M102108,Third Party,1171
+M102109,Third Party,618
+M102111,Comprehensive,628
+M102112,Comprehensive,1195
+M102113,Third Party,560
+M102114,Comprehensive,994
+M102115,Comprehensive,784
+M102116,Telematics,349
+M102117,Comprehensive,844
+M102118,Comprehensive,724
+M102119,Comprehensive,983
+M102120,Third Party,663
+M102121,Comprehensive,513
+M102122,Third Party,504
+M102123,Comprehensive,792
+M102124,Third Party,1245
+M102125,Telematics,717
+M102126,Comprehensive,411
+M102127,Third Party,1077
+M102128,Comprehensive,584
+M102129,Comprehensive,691
+M102130,Comprehensive,1103
+M102131,Comprehensive,387
+M102132,Telematics,408
+M102133,Third Party,475
+M102134,Telematics,644
+M102135,Comprehensive,1111
+M102137,Third Party,895
+M102138,Third Party,1032
+M102139,Comprehensive,606
+M102141,Third Party,680
+M102142,Telematics,676
+M102143,Telematics,390
+M102145,Telematics,813
+M102146,Comprehensive,602
+M102148,Telematics,1204
+M102150,Telematics,950
+M102152,Third Party,1124
+M102153,Comprehensive,469
+M102154,Comprehensive,388
+M102155,Comprehensive,703
+M102157,Comprehensive,832
+M102159,Telematics,823
+M102161,Telematics,913
+M102162,Telematics,1087
+M102163,Comprehensive,595
+M102166,Third Party,562
+M102167,Comprehensive,536
+M102168,Comprehensive,632
+M102169,Comprehensive,859
+M102171,Telematics,1058
+M102172,Third Party,682
+M102173,Third Party,685
+M102174,Comprehensive,1157
+M102175,Comprehensive,612
+M102176,Third Party,438
+M102177,Third Party,614
+M102178,Telematics,319
+M102179,Comprehensive,634
+M102180,Comprehensive,1152
+M102181,Telematics,1065
+M102182,Comprehensive,1149
+M102183,Comprehensive,571
+M102184,Telematics,684
+M102186,Third Party,1103
+M102187,Third Party,1011
+M102190,Comprehensive,459
+M102191,Third Party,1100
+M102192,Comprehensive,379
+M102193,Third Party,527
+M102194,Third Party,796
+M102195,Comprehensive,914
+M102196,Comprehensive,1054
+M102197,Comprehensive,995
+M102198,Comprehensive,555
+M102200,Comprehensive,626
+M102201,Telematics,980
+M102202,Comprehensive,1197
+M102203,Comprehensive,1121
+M102205,Third Party,1218
+M102206,Third Party,935
+M102207,Comprehensive,752
+M102208,Comprehensive,1023
+M102209,Comprehensive,353
+M102210,Comprehensive,1188
+M102212,Comprehensive,1171
+M102213,Third Party,769
+M102214,Comprehensive,787
+M102215,Comprehensive,793
+M102216,Third Party,414
+M102217,Comprehensive,479
+M102218,Telematics,990
+M102219,Third Party,311
+M102221,Third Party,946
+M102222,Comprehensive,575
+M102223,Comprehensive,415
+M102224,Comprehensive,858
+M102225,Telematics,546
+M102226,Comprehensive,713
+M102228,Comprehensive,1118
+M102229,Third Party,956
+M102230,Comprehensive,1220
+M102231,Third Party,665
+M102233,Telematics,673
+M102234,Comprehensive,946
+M102235,Comprehensive,410
+M102236,Telematics,1111
+M102237,Comprehensive,621
+M102238,Third Party,735
+M102240,Comprehensive,772
+M102241,Comprehensive,344
+M102242,Comprehensive,571
+M102243,Telematics,415
+M102244,Comprehensive,872
+M102245,Comprehensive,965
+M102246,Comprehensive,287
+M102248,Comprehensive,287
+M102249,Comprehensive,1071
+M102250,Telematics,604
+M102251,Third Party,1099
+M102253,Comprehensive,918
+M102254,Comprehensive,1039
+M102255,Comprehensive,652
+M102256,Comprehensive,574
+M102258,Comprehensive,980
+M102259,Telematics,893
+M102260,Comprehensive,833
+M102261,Comprehensive,634
+M102262,Third Party,875
+M102263,Comprehensive,657
+M102264,Third Party,1143
+M102266,Third Party,967
+M102267,Comprehensive,665
+M102269,Telematics,1098
+M102272,Comprehensive,348
+M102273,Comprehensive,1086
+M102274,Third Party,682
+M102275,Third Party,504
+M102276,Comprehensive,1085
+M102277,Comprehensive,918
+M102278,Telematics,351
+M102279,Third Party,539
+M102280,Comprehensive,717
+M102282,Comprehensive,889
+M102283,Third Party,1062
+M102285,Third Party,636
+M102286,Comprehensive,1064
+M102288,Comprehensive,1046
+M102290,Comprehensive,646
+M102292,Third Party,1189
+M102294,Third Party,1195
+M102295,Third Party,561
+M102296,Third Party,819
+M102298,Comprehensive,1122
+M102299,Third Party,802
+M102302,Telematics,997
+M102303,Third Party,1055
+M102304,Telematics,829
+M102305,Telematics,628
+M102307,Comprehensive,789
+M102308,Comprehensive,1087
+M102309,Comprehensive,589
+M102311,Comprehensive,1099
+M102312,Third Party,477
+M102314,Comprehensive,728
+M102315,Comprehensive,360
+M102316,Comprehensive,1108
+M102317,Comprehensive,971
+M102318,Comprehensive,394
+M102319,Comprehensive,495
+M102320,Comprehensive,791
+M102321,Comprehensive,760
+M102322,Third Party,389
+M102323,Third Party,1143
+M102324,Comprehensive,727
+M102325,Telematics,930
+M102327,Comprehensive,1010
+M102328,Third Party,444
+M102330,Telematics,603
+M102331,Telematics,992
+M102332,Comprehensive,1030
+M102333,Comprehensive,488
+M102335,Third Party,590
+M102336,Third Party,1036
+M102337,Third Party,613
+M102338,Comprehensive,355
+M102339,Telematics,762
+M102340,Telematics,417
+M102342,Third Party,856
+M102343,Telematics,1186
+M102344,Comprehensive,377
+M102345,Comprehensive,551
+M102346,Third Party,829
+M102348,Third Party,426
+M102349,Comprehensive,798
+M102351,Comprehensive,488
+M102354,Third Party,896
+M102356,Comprehensive,630
+M102357,Third Party,1177
+M102359,Telematics,1092
+M102360,Comprehensive,1243
+M102361,Third Party,427
+M102362,Comprehensive,1199
+M102363,Comprehensive,295
+M102364,Telematics,492
+M102365,Comprehensive,1119
+M102366,Comprehensive,1116
+M102367,Telematics,570
+M102368,Comprehensive,1096
+M102369,Comprehensive,354
+M102370,Comprehensive,606
+M102371,Comprehensive,306
+M102372,Comprehensive,781
+M102373,Third Party,1152
+M102374,Comprehensive,875
+M102375,Comprehensive,787
+M102376,Third Party,472
+M102377,Comprehensive,872
+M102378,Comprehensive,594
+M102379,Telematics,877
+M102380,Third Party,406
+M102382,Third Party,786
+M102383,Comprehensive,762
+M102384,Third Party,1026
+M102386,Third Party,1161
+M102387,Comprehensive,1158
+M102388,Comprehensive,611
+M102389,Comprehensive,901
+M102391,Telematics,913
+M102392,Third Party,1098
+M102393,Comprehensive,1062
+M102394,Comprehensive,289
+M102395,Telematics,1056
+M102396,Comprehensive,745
+M102397,Third Party,1201
+M102398,Third Party,865
+M102400,Telematics,655
+M102401,Comprehensive,475
+M102402,Third Party,1200
+M102403,Comprehensive,435
+M102404,Telematics,367
+M102405,Comprehensive,412
+M102406,Third Party,815
+M102407,Comprehensive,556
+M102408,Telematics,843
+M102409,Comprehensive,1078
+M102410,Comprehensive,562
+M102411,Third Party,306
+M102412,Comprehensive,628
+M102413,Comprehensive,864
+M102414,Comprehensive,986
+M102415,Telematics,346
+M102416,Third Party,1132
+M102419,Third Party,855
+M102420,Telematics,747
+M102421,Third Party,524
+M102423,Comprehensive,1210
+M102424,Comprehensive,432
+M102425,Third Party,715
+M102426,Third Party,731
+M102427,Comprehensive,810
+M102428,Telematics,504
+M102430,Comprehensive,1195
+M102431,Comprehensive,646
+M102432,Comprehensive,970
+M102433,Telematics,894
+M102434,Comprehensive,476
+M102435,Comprehensive,1188
+M102436,Comprehensive,726
+M102437,Telematics,879
+M102438,Comprehensive,906
+M102439,Comprehensive,771
+M102440,Telematics,898
+M102441,Third Party,820
+M102442,Comprehensive,998
+M102443,Comprehensive,737
+M102445,Third Party,1068
+M102446,Comprehensive,825
+M102447,Comprehensive,1248
+M102448,Comprehensive,833
+M102449,Telematics,852
+M102451,Third Party,757
+M102453,Third Party,665
+M102454,Comprehensive,1044
+M102455,Comprehensive,895
+M102456,Telematics,659
+M102457,Third Party,1062
+M102458,Comprehensive,385
+M102460,Third Party,340
+M102461,Comprehensive,903
+M102462,Comprehensive,724
+M102463,Comprehensive,1052
+M102465,Telematics,924
+M102467,Third Party,1036
+M102468,Comprehensive,537
+M102470,Comprehensive,524
+M102471,Telematics,523
+M102472,Comprehensive,907
+M102473,Comprehensive,934
+M102474,Telematics,1248
+M102475,Telematics,490
+M102476,Comprehensive,381
+M102478,Comprehensive,1209
+M102480,Third Party,787
+M102481,Comprehensive,635
+M102482,Third Party,576
+M102483,Third Party,1137
+M102484,Third Party,1047
+M102485,Comprehensive,449
+M102486,Third Party,594
+M102487,Telematics,1124
+M102488,Third Party,991
+M102489,Comprehensive,1070
+M102490,Telematics,435
+M102491,Comprehensive,841
+M102493,Comprehensive,344
+M102495,Comprehensive,716
+M102496,Comprehensive,380
+M102497,Comprehensive,540
+M102498,Third Party,532
+M102499,Comprehensive,462
+M102500,Comprehensive,1104
+M102501,Telematics,640
+M102503,Comprehensive,425
+M102504,Third Party,1238
+M102505,Telematics,312
+M102506,Comprehensive,423
+M102507,Comprehensive,1107
+M102508,Comprehensive,717
+M102509,Third Party,643
+M102510,Comprehensive,576
+M102511,Telematics,851
+M102512,Third Party,628
+M102513,Third Party,361
+M102516,Telematics,1214
+M102517,Comprehensive,1160
+M102518,Third Party,450
+M102519,Third Party,769
+M102521,Third Party,719
+M102522,Third Party,366
+M102524,Comprehensive,666
+M102525,Third Party,894
+M102526,Third Party,380
+M102528,Third Party,634
+M102529,Telematics,523
+M102531,Comprehensive,622
+M102532,Telematics,891
+M102533,Comprehensive,675
+M102535,Comprehensive,1024
+M102536,Comprehensive,772
+M102537,Comprehensive,951
+M102538,Third Party,880
+M102540,Comprehensive,1072
+M102541,Third Party,422
+M102542,Telematics,1241
+M102544,Third Party,1011
+M102546,Comprehensive,472
+M102547,Telematics,306
+M102548,Third Party,304
+M102549,Third Party,958
+M102550,Comprehensive,690
+M102551,Third Party,457
+M102552,Comprehensive,588
+M102553,Comprehensive,713
+M102554,Comprehensive,320
+M102555,Third Party,824
+M102556,Comprehensive,315
+M102558,Comprehensive,907
+M102559,Third Party,339
+M102561,Comprehensive,1047
+M102562,Comprehensive,525
+M102563,Telematics,780
+M102564,Telematics,654
+M102568,Telematics,1133
+M102569,Third Party,1050
+M102570,Comprehensive,1206
+M102571,Comprehensive,973
+M102572,Comprehensive,1226
+M102574,Telematics,498
+M102575,Comprehensive,589
+M102576,Comprehensive,1065
+M102577,Third Party,311
+M102579,Third Party,453
+M102580,Comprehensive,974
+M102581,Telematics,667
+M102582,Third Party,524
+M102583,Telematics,574
+M102584,Comprehensive,1024
+M102586,Comprehensive,745
+M102587,Comprehensive,284
+M102588,Comprehensive,781
+M102589,Comprehensive,1033
+M102590,Comprehensive,441
+M102592,Comprehensive,348
+M102593,Comprehensive,888
+M102594,Comprehensive,1132
+M102595,Comprehensive,348
+M102597,Comprehensive,911
+M102598,Comprehensive,1035
+M102599,Comprehensive,436
+M102600,Telematics,532
+M102601,Comprehensive,772
+M102602,Third Party,872
+M102603,Comprehensive,770
+M102604,Comprehensive,458
+M102605,Comprehensive,1132
+M102606,Comprehensive,688
+M102607,Third Party,796
+M102608,Telematics,799
+M102609,Comprehensive,813
+M102610,Comprehensive,561
+M102611,Third Party,589
+M102612,Third Party,414
+M102613,Comprehensive,986
+M102614,Comprehensive,584
+M102615,Comprehensive,328
+M102616,Comprehensive,325
+M102617,Comprehensive,1218
+M102618,Comprehensive,695
+M102619,Third Party,868
+M102621,Comprehensive,798
+M102622,Comprehensive,1100
+M102623,Comprehensive,1141
+M102624,Third Party,1037
+M102625,Comprehensive,1232
+M102626,Comprehensive,491
+M102628,Comprehensive,715
+M102629,Comprehensive,560
+M102631,Comprehensive,1087
+M102632,Comprehensive,549
+M102633,Comprehensive,1050
+M102634,Comprehensive,498
+M102635,Comprehensive,952
+M102636,Comprehensive,295
+M102637,Comprehensive,1045
+M102638,Telematics,1082
+M102639,Third Party,826
+M102640,Third Party,801
+M102642,Comprehensive,725
+M102643,Telematics,853
+M102644,Third Party,828
+M102645,Comprehensive,756
+M102646,Third Party,785
+M102647,Comprehensive,400
+M102648,Telematics,731
+M102650,Comprehensive,703
+M102651,Third Party,1148
+M102652,Telematics,564
+M102653,Comprehensive,1218
+M102655,Telematics,1145
+M102656,Comprehensive,1039
+M102657,Third Party,960
+M102658,Comprehensive,587
+M102659,Comprehensive,437
+M102661,Comprehensive,1046
+M102662,Third Party,960
+M102663,Third Party,1086
+M102664,Comprehensive,811
+M102665,Comprehensive,1151
+M102666,Comprehensive,359
+M102667,Third Party,386
+M102668,Comprehensive,347
+M102669,Comprehensive,591
+M102670,Telematics,423
+M102671,Telematics,319
+M102672,Comprehensive,1066
+M102673,Comprehensive,431
+M102675,Third Party,1085
+M102676,Comprehensive,903
+M102677,Comprehensive,869
+M102678,Telematics,393
+M102679,Comprehensive,295
+M102681,Comprehensive,415
+M102682,Comprehensive,587
+M102684,Telematics,1207
+M102685,Third Party,668
+M102686,Comprehensive,506
+M102688,Third Party,555
+M102689,Telematics,604
+M102690,Third Party,843
+M102692,Comprehensive,1062
+M102693,Comprehensive,340
+M102694,Third Party,1031
+M102695,Comprehensive,299
+M102696,Comprehensive,592
+M102697,Third Party,850
+M102698,Third Party,381
+M102699,Comprehensive,536
+M102700,Comprehensive,899
+M102701,Third Party,945
+M102702,Comprehensive,360
+M102703,Comprehensive,1034
+M102704,Comprehensive,675
+M102705,Comprehensive,872
+M102706,Comprehensive,486
+M102707,Telematics,1240
+M102708,Comprehensive,1018
+M102709,Comprehensive,903
+M102710,Comprehensive,460
+M102711,Comprehensive,1029
+M102712,Comprehensive,646
+M102713,Telematics,901
+M102715,Third Party,910
+M102716,Comprehensive,1061
+M102717,Comprehensive,1091
+M102718,Comprehensive,658
+M102719,Comprehensive,358
+M102720,Comprehensive,701
+M102721,Comprehensive,668
+M102722,Comprehensive,605
+M102724,Comprehensive,753
+M102725,Third Party,839
+M102726,Comprehensive,884
+M102728,Telematics,643
+M102729,Comprehensive,877
+M102730,Third Party,1238
+M102733,Third Party,911
+M102734,Third Party,864
+M102735,Third Party,557
+M102737,Comprehensive,605
+M102738,Comprehensive,330
+M102739,Telematics,772
+M102742,Comprehensive,352
+M102744,Third Party,1037
+M102745,Telematics,1208
+M102747,Comprehensive,1061
+M102748,Telematics,431
+M102749,Comprehensive,897
+M102751,Comprehensive,697
+M102752,Third Party,282
+M102753,Third Party,975
+M102755,Comprehensive,1122
+M102756,Comprehensive,727
+M102757,Third Party,1162
+M102759,Third Party,333
+M102760,Third Party,1125
+M102764,Comprehensive,940
+M102765,Comprehensive,930
+M102766,Comprehensive,767
+M102767,Comprehensive,306
+M102770,Third Party,718
+M102771,Comprehensive,1202
+M102773,Comprehensive,728
+M102775,Telematics,345
+M102776,Comprehensive,759
+M102777,Third Party,424
+M102778,Comprehensive,688
+M102779,Comprehensive,889
+M102780,Third Party,344
+M102782,Telematics,727
+M102783,Third Party,770
+M102784,Comprehensive,1012
+M102785,Comprehensive,345
+M102787,Third Party,894
+M102788,Third Party,883
+M102789,Comprehensive,284
+M102790,Comprehensive,395
+M102792,Comprehensive,903
+M102793,Comprehensive,1114
+M102794,Telematics,1112
+M102795,Comprehensive,1025
+M102796,Comprehensive,1106
+M102797,Telematics,868
+M102798,Telematics,432
+M102799,Telematics,795
+M102800,Third Party,616
+M102801,Telematics,527
+M102802,Comprehensive,395
+M102804,Telematics,299
+M102805,Comprehensive,1008
+M102806,Comprehensive,445
+M102807,Comprehensive,888
+M102808,Comprehensive,573
+M102811,Third Party,749
+M102813,Telematics,665
+M102814,Comprehensive,570
+M102815,Third Party,746
+M102816,Third Party,1043
+M102817,Comprehensive,768
+M102818,Third Party,1047
+M102822,Comprehensive,1163
+M102823,Comprehensive,756
+M102824,Comprehensive,1058
+M102825,Telematics,400
+M102826,Comprehensive,828
+M102827,Comprehensive,731
+M102828,Third Party,285
+M102830,Third Party,1149
+M102831,Telematics,999
+M102832,Comprehensive,846
+M102833,Third Party,954
+M102834,Third Party,1011
+M102835,Comprehensive,1034
+M102836,Third Party,565
+M102837,Comprehensive,685
+M102838,Third Party,612
+M102840,Comprehensive,1163
+M102841,Comprehensive,393
+M102842,Telematics,1160
+M102843,Telematics,612
+M102844,Comprehensive,1035
+M102845,Third Party,444
+M102846,Telematics,1098
+M102851,Comprehensive,802
+M102852,Third Party,1235
+M102853,Comprehensive,661
+M102854,Third Party,1244
+M102855,Comprehensive,1090
+M102857,Third Party,287
+M102858,Comprehensive,651
+M102859,Comprehensive,673
+M102860,Third Party,485
+M102861,Comprehensive,1131
+M102862,Telematics,361
+M102863,Comprehensive,530
+M102864,Comprehensive,524
+M102865,Third Party,685
+M102866,Comprehensive,956
+M102867,Third Party,286
+M102868,Comprehensive,887
+M102870,Third Party,672
+M102872,Third Party,881
+M102873,Comprehensive,339
+M102874,Comprehensive,1112
+M102875,Comprehensive,840
+M102876,Telematics,525
+M102877,Comprehensive,1045
+M102878,Comprehensive,736
+M102879,Comprehensive,658
+M102880,Third Party,443
+M102882,Comprehensive,755
+M102883,Comprehensive,492
+M102884,Telematics,991
+M102885,Telematics,639
+M102887,Telematics,394
+M102888,Third Party,965
+M102889,Comprehensive,1099
+M102890,Comprehensive,1088
+M102891,Comprehensive,750
+M102893,Third Party,577
+M102894,Comprehensive,494
+M102895,Comprehensive,665
+M102896,Third Party,378
+M102897,Third Party,1141
+M102898,Comprehensive,521
+M102899,Telematics,1036
+M102900,Comprehensive,653
+M102901,Third Party,949
+M102902,Telematics,1163
+M102903,Comprehensive,674
+M102904,Telematics,1215
+M102905,Third Party,610
+M102906,Telematics,526
+M102907,Comprehensive,981
+M102908,Comprehensive,416
+M102911,Comprehensive,370
+M102912,Third Party,637
+M102913,Comprehensive,807
+M102915,Comprehensive,734
+M102916,Telematics,338
+M102917,Comprehensive,811
+M102918,Comprehensive,884
+M102919,Third Party,556
+M102922,Comprehensive,831
+M102923,Comprehensive,624
+M102924,Comprehensive,337
+M102925,Comprehensive,1001
+M102926,Comprehensive,687
+M102927,Third Party,1234
+M102928,Comprehensive,466
+M102929,Comprehensive,287
+M102930,Telematics,1054
+M102931,Third Party,1116
+M102932,Third Party,1165
+M102933,Telematics,1239
+M102935,Comprehensive,585
+M102936,Third Party,938
+M102937,Telematics,308
+M102938,Third Party,684
+M102939,Comprehensive,1150
+M102940,Third Party,895
+M102941,Comprehensive,1099
+M102942,Comprehensive,1197
+M102943,Third Party,1052
+M102944,Comprehensive,946
+M102945,Comprehensive,625
+M102946,Comprehensive,795
+M102947,Comprehensive,357
+M102949,Comprehensive,839
+M102950,Third Party,1225
+M102951,Third Party,423
+M102953,Third Party,758
+M102954,Comprehensive,1152
+M102955,Comprehensive,625
+M102956,Telematics,851
+M102957,Comprehensive,1033
+M102958,Comprehensive,1044
+M102960,Telematics,930
+M102961,Comprehensive,340
+M102962,Comprehensive,320
+M102963,Comprehensive,1011
+M102964,Third Party,1209
+M102965,Comprehensive,539
+M102967,Third Party,819
+M102968,Third Party,349
+M102969,Third Party,462
+M102970,Comprehensive,750
+M102971,Comprehensive,295
+M102972,Third Party,851
+M102973,Telematics,815
+M102974,Comprehensive,369
+M102975,Comprehensive,856
+M102976,Third Party,721
+M102978,Third Party,376
+M102979,Telematics,492
+M102980,Third Party,808
+M102981,Comprehensive,1066
+M102982,Third Party,698
+M102983,Telematics,893
+M102984,Comprehensive,704
+M102985,Comprehensive,1115
+M102986,Comprehensive,1226
+M102987,Comprehensive,689
+M102988,Telematics,567
+M102989,Comprehensive,838
+M102990,Third Party,1137
+M102991,Comprehensive,861
+M102992,Comprehensive,614
+M102993,Third Party,1032
+M102994,Comprehensive,454
+M102995,Third Party,544
+M102996,Comprehensive,427
+M102997,Third Party,1165
+M102998,Telematics,1192
+M102999,Comprehensive,1209
+M103000,Comprehensive,302
+M103001,Third Party,1152
+M103004,Comprehensive,492
+M103006,Comprehensive,1203
+M103007,Telematics,610
+M103008,Comprehensive,576
+M103012,Third Party,917
+M103013,Comprehensive,1046
+M103014,Third Party,644
+M103015,Third Party,1079
+M103016,Comprehensive,299
+M103017,Third Party,1151
+M103018,Comprehensive,781
+M103019,Comprehensive,800
+M103020,Third Party,1137
+M103022,Telematics,333
+M103024,Third Party,1139
+M103025,Third Party,477
+M103026,Comprehensive,1241
+M103029,Third Party,977
+M103031,Third Party,612
+M103032,Comprehensive,344
+M103033,Comprehensive,398
+M103034,Comprehensive,398
+M103035,Comprehensive,347
+M103036,Third Party,877
+M103037,Comprehensive,1121
+M103038,Third Party,1055
+M103041,Telematics,1005
+M103044,Telematics,1231
+M103047,Third Party,888
+M103048,Telematics,372
+M103049,Comprehensive,761
+M103050,Third Party,1015
+M103051,Third Party,723
+M103052,Telematics,577
+M103053,Third Party,759
+M103054,Comprehensive,1037
+M103055,Third Party,632
+M103056,Third Party,622
+M103057,Comprehensive,740
+M103058,Third Party,686
+M103059,Third Party,484
+M103060,Third Party,551
+M103061,Telematics,394
+M103062,Third Party,1008
+M103063,Telematics,484
+M103064,Comprehensive,1229
+M103066,Comprehensive,1221
+M103067,Comprehensive,932
+M103068,Comprehensive,1240
+M103069,Third Party,1117
+M103070,Third Party,1008
+M103072,Comprehensive,625
+M103073,Comprehensive,1092
+M103074,Telematics,610
+M103076,Comprehensive,380
+M103077,Comprehensive,828
+M103078,Third Party,399
+M103079,Third Party,369
+M103082,Comprehensive,369
+M103084,Comprehensive,1164
+M103085,Comprehensive,341
+M103086,Comprehensive,662
+M103088,Comprehensive,1004
+M103089,Comprehensive,1057
+M103090,Comprehensive,334
+M103091,Comprehensive,1147
+M103092,Third Party,1200
+M103093,Comprehensive,1220
+M103094,Comprehensive,914
+M103096,Comprehensive,776
+M103097,Comprehensive,445
+M103098,Third Party,399
+M103099,Comprehensive,1072
+M103100,Telematics,1104
+M103101,Third Party,1078
+M103102,Comprehensive,879
+M103103,Telematics,826
+M103104,Comprehensive,467
+M103105,Comprehensive,368
+M103106,Comprehensive,474
+M103107,Third Party,668
+M103108,Third Party,572
+M103109,Third Party,812
+M103110,Telematics,1038
+M103111,Telematics,1001
+M103112,Comprehensive,1083
+M103113,Telematics,569
+M103114,Comprehensive,1187
+M103115,Telematics,1126
+M103117,Comprehensive,618
+M103118,Comprehensive,523
+M103119,Comprehensive,1141
+M103121,Comprehensive,1248
+M103122,Third Party,731
+M103123,Comprehensive,391
+M103124,Comprehensive,868
+M103125,Telematics,1087
+M103126,Third Party,734
+M103127,Third Party,408
+M103128,Telematics,993
+M103129,Comprehensive,1016
+M103130,Comprehensive,1128
+M103131,Comprehensive,1116
+M103132,Comprehensive,743
+M103134,Comprehensive,583
+M103135,Third Party,440
+M103136,Comprehensive,378
+M103137,Third Party,1082
+M103138,Third Party,1249
+M103139,Comprehensive,903
+M103141,Comprehensive,1221
+M103142,Comprehensive,578
+M103143,Third Party,1014
+M103144,Comprehensive,665
+M103145,Third Party,654
+M103146,Comprehensive,900
+M103147,Third Party,410
+M103148,Comprehensive,679
+M103149,Comprehensive,685
+M103150,Comprehensive,697
+M103151,Third Party,978
+M103154,Comprehensive,549
+M103155,Third Party,427
+M103156,Comprehensive,872
+M103158,Telematics,296
+M103159,Telematics,1238
+M103160,Comprehensive,1156
+M103161,Comprehensive,651
+M103162,Third Party,958
+M103164,Comprehensive,783
+M103166,Comprehensive,953
+M103168,Comprehensive,492
+M103169,Third Party,1198
+M103170,Comprehensive,1134
+M103171,Telematics,785
+M103172,Comprehensive,1131
+M103173,Comprehensive,588
+M103174,Comprehensive,1042
+M103175,Telematics,1162
+M103176,Telematics,955
+M103177,Comprehensive,1236
+M103178,Third Party,487
+M103179,Comprehensive,299
+M103180,Comprehensive,790
+M103181,Comprehensive,600
+M103182,Third Party,900
+M103183,Comprehensive,631
+M103185,Third Party,1122
+M103186,Comprehensive,387
+M103188,Telematics,1214
+M103189,Telematics,494
+M103190,Comprehensive,597
+M103192,Third Party,303
+M103193,Third Party,938
+M103194,Telematics,955
+M103195,Comprehensive,1181
+M103199,Comprehensive,383
+M103200,Comprehensive,747
+M103201,Third Party,1140
+M103202,Comprehensive,309
+M103203,Comprehensive,846
+M103204,Third Party,502
+M103205,Telematics,625
+M103209,Comprehensive,1013
+M103211,Comprehensive,1064
+M103212,Comprehensive,285
+M103214,Comprehensive,911
+M103215,Comprehensive,662
+M103216,Comprehensive,1010
+M103217,Comprehensive,1096
+M103218,Telematics,1131
+M103219,Comprehensive,379
+M103220,Comprehensive,1063
+M103221,Comprehensive,1215
+M103223,Third Party,1035
+M103224,Comprehensive,645
+M103225,Comprehensive,987
+M103226,Comprehensive,345
+M103227,Comprehensive,646
+M103228,Comprehensive,1079
+M103229,Third Party,912
+M103230,Comprehensive,537
+M103231,Third Party,828
+M103232,Comprehensive,281
+M103233,Third Party,1214
+M103234,Telematics,814
+M103235,Comprehensive,765
+M103237,Third Party,603
+M103238,Comprehensive,495
+M103239,Third Party,598
+M103240,Comprehensive,723
+M103241,Telematics,693
+M103242,Comprehensive,682
+M103243,Comprehensive,772
+M103244,Comprehensive,734
+M103245,Comprehensive,580
+M103246,Third Party,843
+M103247,Third Party,518
+M103248,Comprehensive,1199
+M103250,Third Party,927
+M103251,Comprehensive,552
+M103252,Third Party,951
+M103253,Comprehensive,1220
+M103254,Comprehensive,1021
+M103256,Comprehensive,1036
+M103257,Comprehensive,491
+M103258,Third Party,457
+M103259,Telematics,824
+M103260,Comprehensive,552
+M103262,Comprehensive,396
+M103263,Comprehensive,1162
+M103264,Third Party,614
+M103265,Comprehensive,1057
+M103266,Third Party,989
+M103268,Third Party,419
+M103270,Comprehensive,462
+M103271,Telematics,847
+M103273,Comprehensive,885
+M103274,Third Party,548
+M103275,Comprehensive,428
+M103277,Comprehensive,890
+M103278,Comprehensive,509
+M103279,Third Party,448
+M103280,Comprehensive,647
+M103281,Telematics,621
+M103282,Comprehensive,670
+M103285,Comprehensive,656
+M103286,Third Party,828
+M103287,Comprehensive,801
+M103288,Comprehensive,316
+M103290,Comprehensive,512
+M103291,Comprehensive,769
+M103293,Comprehensive,985
+M103294,Comprehensive,309
+M103297,Third Party,1064
+M103298,Third Party,371
+M103299,Comprehensive,900
+M103300,Third Party,492
+M103301,Comprehensive,1155
+M103302,Comprehensive,952
+M103304,Comprehensive,1046
+M103305,Comprehensive,1067
+M103306,Comprehensive,322
+M103307,Comprehensive,1101
+M103308,Comprehensive,362
+M103309,Comprehensive,806
+M103310,Comprehensive,920
+M103311,Comprehensive,1152
+M103312,Comprehensive,980
+M103315,Third Party,970
+M103316,Comprehensive,1218
+M103318,Comprehensive,295
+M103319,Comprehensive,283
+M103320,Third Party,464
+M103321,Third Party,509
+M103322,Third Party,764
+M103324,Comprehensive,1086
+M103325,Third Party,660
+M103326,Comprehensive,1144
+M103327,Third Party,901
+M103328,Third Party,730
+M103329,Comprehensive,1049
+M103330,Telematics,749
+M103332,Comprehensive,321
+M103334,Telematics,1108
+M103335,Comprehensive,408
+M103336,Comprehensive,726
+M103337,Third Party,431
+M103340,Comprehensive,1043
+M103342,Third Party,898
+M103343,Comprehensive,1200
+M103344,Comprehensive,1120
+M103345,Comprehensive,533
+M103346,Telematics,524
+M103348,Telematics,546
+M103349,Comprehensive,429
+M103350,Comprehensive,1190
+M103352,Comprehensive,360
+M103353,Comprehensive,691
+M103355,Telematics,553
+M103357,Third Party,295
+M103358,Third Party,1085
+M103359,Comprehensive,767
+M103360,Third Party,1131
+M103361,Telematics,878
+M103362,Telematics,761
+M103363,Third Party,517
+M103364,Comprehensive,853
+M103365,Telematics,985
+M103366,Comprehensive,307
+M103367,Comprehensive,505
+M103368,Comprehensive,630
+M103369,Third Party,396
+M103370,Third Party,361
+M103371,Telematics,521
+M103372,Telematics,610
+M103373,Third Party,797
+M103374,Telematics,1069
+M103375,Comprehensive,1110
+M103376,Comprehensive,650
+M103378,Comprehensive,793
+M103379,Third Party,293
+M103380,Telematics,1103
+M103381,Third Party,507
+M103385,Telematics,342
+M103386,Comprehensive,864
+M103387,Third Party,641
+M103388,Comprehensive,678
+M103389,Third Party,702
+M103390,Third Party,889
+M103392,Comprehensive,1057
+M103393,Comprehensive,834
+M103394,Comprehensive,872
+M103395,Telematics,1064
+M103396,Third Party,1041
+M103397,Comprehensive,447
+M103398,Telematics,608
+M103399,Comprehensive,758
+M103402,Comprehensive,1186
+M103403,Third Party,868
+M103404,Comprehensive,1069
+M103406,Comprehensive,1051
+M103407,Third Party,1168
+M103409,Comprehensive,782
+M103410,Comprehensive,534
+M103412,Comprehensive,678
+M103413,Telematics,286
+M103414,Comprehensive,943
+M103415,Telematics,877
+M103416,Third Party,440
+M103417,Comprehensive,757
+M103418,Comprehensive,974
+M103419,Comprehensive,1035
+M103420,Third Party,1032
+M103421,Comprehensive,374
+M103422,Third Party,642
+M103423,Third Party,857
+M103425,Comprehensive,382
+M103426,Telematics,472
+M103427,Comprehensive,1194
+M103428,Third Party,779
+M103429,Comprehensive,840
+M103430,Comprehensive,433
+M103431,Third Party,894
+M103432,Comprehensive,1164
+M103433,Telematics,1211
+M103434,Third Party,457
+M103435,Third Party,495
+M103436,Comprehensive,837
+M103438,Telematics,1140
+M103439,Telematics,285
+M103440,Comprehensive,498
+M103441,Comprehensive,431
+M103443,Telematics,1045
+M103444,Comprehensive,764
+M103445,Comprehensive,973
+M103446,Telematics,319
+M103447,Comprehensive,408
+M103448,Telematics,806
+M103449,Comprehensive,687
+M103450,Comprehensive,458
+M103451,Comprehensive,533
+M103452,Comprehensive,984
+M103453,Telematics,293
+M103455,Third Party,1122
+M103456,Telematics,434
+M103459,Comprehensive,1015
+M103460,Telematics,890
+M103461,Third Party,341
+M103462,Comprehensive,1021
+M103465,Comprehensive,761
+M103466,Comprehensive,572
+M103467,Comprehensive,387
+M103468,Telematics,391
+M103469,Telematics,676
+M103470,Comprehensive,565
+M103471,Comprehensive,1094
+M103472,Comprehensive,806
+M103473,Third Party,319
+M103474,Third Party,1130
+M103476,Third Party,524
+M103477,Third Party,868
+M103478,Telematics,1081
+M103479,Comprehensive,927
+M103480,Comprehensive,673
+M103481,Third Party,287
+M103482,Telematics,508
+M103483,Third Party,832
+M103484,Telematics,1200
+M103485,Telematics,314
+M103486,Comprehensive,431
+M103487,Third Party,627
+M103488,Telematics,1044
+M103489,Comprehensive,1201
+M103490,Third Party,452
+M103491,Comprehensive,843
+M103493,Third Party,1214
+M103494,Comprehensive,1248
+M103495,Comprehensive,1042
+M103496,Third Party,1035
+M103497,Third Party,548
+M103499,Comprehensive,580
+M103500,Comprehensive,1234
+M103502,Telematics,884
+M103503,Telematics,391
+M103505,Third Party,347
+M103506,Comprehensive,1113
+M103507,Third Party,405
+M103508,Third Party,958
+M103509,Comprehensive,592
+M103510,Comprehensive,448
+M103511,Comprehensive,390
+M103512,Comprehensive,809
+M103515,Third Party,1059
+M103516,Comprehensive,291
+M103517,Comprehensive,962
+M103518,Comprehensive,835
+M103521,Third Party,1050
+M103522,Third Party,844
+M103523,Comprehensive,402
+M103524,Comprehensive,676
+M103525,Comprehensive,1237
+M103526,Third Party,1079
+M103527,Comprehensive,620
+M103528,Comprehensive,1182
+M103530,Comprehensive,287
+M103531,Comprehensive,797
+M103534,Comprehensive,1030
+M103535,Third Party,933
+M103536,Comprehensive,453
+M103537,Third Party,421
+M103538,Comprehensive,1001
+M103539,Third Party,1248
+M103540,Comprehensive,1021
+M103541,Third Party,1112
+M103542,Comprehensive,1163
+M103543,Comprehensive,1200
+M103544,Third Party,1046
+M103545,Comprehensive,1034
+M103547,Comprehensive,1046
+M103552,Comprehensive,593
+M103553,Telematics,804
+M103554,Telematics,495
+M103557,Third Party,794
+M103558,Comprehensive,775
+M103559,Comprehensive,346
+M103560,Third Party,360
+M103562,Comprehensive,1202
+M103563,Comprehensive,815
+M103564,Third Party,311
+M103565,Comprehensive,638
+M103566,Third Party,1144
+M103568,Third Party,986
+M103569,Third Party,1078
+M103570,Third Party,886
+M103571,Comprehensive,959
+M103572,Third Party,519
+M103573,Third Party,1096
+M103574,Third Party,991
+M103575,Telematics,512
+M103576,Telematics,581
+M103577,Third Party,1024
+M103578,Telematics,521
+M103579,Comprehensive,928
+M103580,Telematics,685
+M103581,Telematics,558
+M103582,Comprehensive,433
+M103583,Third Party,979
+M103584,Comprehensive,595
+M103585,Third Party,819
+M103586,Comprehensive,532
+M103587,Comprehensive,422
+M103588,Comprehensive,301
+M103589,Comprehensive,1191
+M103590,Telematics,571
+M103591,Comprehensive,838
+M103592,Comprehensive,732
+M103594,Telematics,638
+M103595,Comprehensive,1084
+M103596,Comprehensive,1163
+M103597,Comprehensive,455
+M103598,Telematics,310
+M103599,Telematics,597
+M103600,Third Party,379
+M103601,Comprehensive,308
+M103602,Comprehensive,1060
+M103603,Third Party,352
+M103604,Comprehensive,348
+M103605,Comprehensive,625
+M103606,Comprehensive,830
+M103607,Telematics,764
+M103608,Third Party,1003
+M103610,Comprehensive,1005
+M103611,Telematics,296
+M103612,Comprehensive,1020
+M103613,Third Party,321
+M103614,Comprehensive,1166
+M103615,Telematics,576
+M103616,Comprehensive,1160
+M103618,Telematics,1249
+M103620,Third Party,378
+M103621,Comprehensive,649
+M103624,Comprehensive,388
+M103626,Third Party,1219
+M103627,Comprehensive,761
+M103628,Comprehensive,1092
+M103630,Third Party,851
+M103631,Comprehensive,1102
+M103632,Comprehensive,859
+M103633,Third Party,327
+M103634,Comprehensive,751
+M103635,Comprehensive,915
+M103636,Comprehensive,1231
+M103637,Telematics,1087
+M103638,Comprehensive,773
+M103640,Third Party,1061
+M103641,Third Party,1187
+M103642,Third Party,1129
+M103643,Comprehensive,1238
+M103644,Comprehensive,628
+M103645,Comprehensive,710
+M103646,Third Party,293
+M103648,Third Party,409
+M103649,Comprehensive,1072
+M103650,Third Party,596
+M103652,Comprehensive,705
+M103654,Comprehensive,627
+M103655,Third Party,1178
+M103656,Comprehensive,1141
+M103657,Telematics,997
+M103658,Third Party,1212
+M103659,Comprehensive,810
+M103660,Comprehensive,444
+M103664,Third Party,895
+M103666,Third Party,299
+M103667,Comprehensive,687
+M103668,Comprehensive,1085
+M103669,Third Party,454
+M103670,Comprehensive,821
+M103671,Comprehensive,1033
+M103672,Comprehensive,1008
+M103673,Comprehensive,854
+M103674,Comprehensive,601
+M103675,Comprehensive,514
+M103676,Comprehensive,433
+M103677,Comprehensive,994
+M103678,Telematics,536
+M103679,Comprehensive,910
+M103680,Comprehensive,327
+M103681,Telematics,563
+M103682,Telematics,654
+M103684,Third Party,1029
+M103686,Comprehensive,376
+M103687,Third Party,736
+M103688,Third Party,729
+M103691,Third Party,591
+M103692,Comprehensive,1055
+M103693,Comprehensive,1230
+M103695,Comprehensive,326
+M103696,Third Party,1184
+M103697,Comprehensive,1149
+M103698,Comprehensive,1097
+M103699,Third Party,399
+M103701,Telematics,656
+M103702,Telematics,916
+M103703,Third Party,478
+M103704,Comprehensive,513
+M103705,Telematics,826
+M103706,Comprehensive,1099
+M103707,Comprehensive,437
+M103709,Comprehensive,290
+M103710,Third Party,1246
+M103711,Comprehensive,688
+M103712,Comprehensive,353
+M103713,Comprehensive,1213
+M103714,Third Party,545
+M103715,Third Party,389
+M103716,Comprehensive,928
+M103718,Comprehensive,1017
+M103719,Third Party,402
+M103720,Comprehensive,984
+M103721,Comprehensive,646
+M103722,Third Party,589
+M103723,Third Party,926
+M103725,Third Party,338
+M103726,Comprehensive,443
+M103728,Telematics,1088
+M103729,Comprehensive,1236
+M103730,Telematics,1157
+M103732,Comprehensive,1039
+M103734,Comprehensive,403
+M103735,Comprehensive,579
+M103740,Comprehensive,1102
+M103741,Comprehensive,971
+M103742,Telematics,1088
+M103743,Telematics,678
+M103745,Comprehensive,839
+M103746,Telematics,994
+M103747,Telematics,1040
+M103749,Telematics,983
+M103750,Comprehensive,318
+M103751,Comprehensive,476
+M103752,Telematics,761
+M103754,Third Party,958
+M103755,Comprehensive,1217
+M103756,Comprehensive,571
+M103757,Comprehensive,1031
+M103758,Comprehensive,924
+M103760,Comprehensive,540
+M103761,Third Party,447
+M103762,Comprehensive,884
+M103763,Comprehensive,598
+M103764,Comprehensive,486
+M103765,Comprehensive,492
+M103766,Comprehensive,495
+M103767,Comprehensive,368
+M103769,Telematics,463
+M103770,Comprehensive,1226
+M103771,Comprehensive,464
+M103772,Comprehensive,676
+M103773,Third Party,764
+M103774,Comprehensive,961
+M103775,Third Party,580
+M103778,Comprehensive,1082
+M103779,Comprehensive,1034
+M103780,Comprehensive,773
+M103781,Third Party,1147
+M103782,Third Party,617
+M103783,Third Party,752
+M103786,Comprehensive,860
+M103787,Comprehensive,465
+M103788,Third Party,359
+M103789,Comprehensive,1248
+M103790,Third Party,327
+M103791,Comprehensive,325
+M103793,Comprehensive,378
+M103794,Third Party,813
+M103795,Comprehensive,540
+M103796,Telematics,493
+M103798,Third Party,1114
+M103800,Comprehensive,1189
+M103801,Comprehensive,1129
+M103802,Comprehensive,595
+M103803,Comprehensive,362
+M103804,Comprehensive,1209
+M103805,Comprehensive,809
+M103807,Third Party,1223
+M103808,Comprehensive,442
+M103809,Comprehensive,1194
+M103810,Comprehensive,580
+M103811,Third Party,1048
+M103812,Comprehensive,386
+M103813,Telematics,998
+M103814,Telematics,739
+M103815,Telematics,1204
+M103816,Third Party,423
+M103817,Third Party,496
+M103818,Comprehensive,897
+M103819,Third Party,1065
+M103820,Comprehensive,1141
+M103822,Comprehensive,390
+M103823,Telematics,286
+M103824,Comprehensive,631
+M103825,Comprehensive,374
+M103826,Comprehensive,669
+M103827,Comprehensive,742
+M103828,Third Party,1245
+M103829,Telematics,312
+M103830,Comprehensive,591
+M103831,Comprehensive,608
+M103832,Comprehensive,818
+M103834,Third Party,590
+M103835,Comprehensive,894
+M103836,Third Party,1103
+M103837,Third Party,937
+M103838,Comprehensive,920
+M103839,Comprehensive,396
+M103840,Comprehensive,1140
+M103841,Third Party,822
+M103842,Third Party,439
+M103844,Telematics,895
+M103847,Comprehensive,752
+M103849,Telematics,1156
+M103850,Comprehensive,908
+M103851,Comprehensive,1208
+M103852,Comprehensive,1225
+M103853,Comprehensive,507
+M103854,Comprehensive,563
+M103855,Comprehensive,484
+M103856,Third Party,503
+M103857,Third Party,943
+M103858,Third Party,1200
+M103859,Third Party,754
+M103861,Third Party,1064
+M103863,Telematics,1001
+M103864,Comprehensive,532
+M103865,Telematics,1103
+M103866,Comprehensive,744
+M103868,Comprehensive,290
+M103869,Third Party,974
+M103870,Comprehensive,1132
+M103871,Comprehensive,517
+M103873,Comprehensive,537
+M103874,Third Party,990
+M103875,Telematics,1220
+M103878,Comprehensive,532
+M103879,Comprehensive,697
+M103880,Third Party,938
+M103881,Comprehensive,1106
+M103882,Comprehensive,312
+M103883,Comprehensive,473
+M103885,Third Party,1147
+M103886,Comprehensive,789
+M103887,Comprehensive,1015
+M103888,Comprehensive,341
+M103889,Comprehensive,368
+M103890,Comprehensive,992
+M103891,Third Party,644
+M103892,Telematics,1193
+M103893,Comprehensive,698
+M103894,Comprehensive,1097
+M103895,Comprehensive,807
+M103898,Telematics,939
+M103899,Comprehensive,914
+M103900,Third Party,395
+M103902,Telematics,1050
+M103903,Telematics,1234
+M103904,Telematics,655
+M103905,Comprehensive,613
+M103906,Third Party,859
+M103907,Telematics,893
+M103908,Third Party,651
+M103909,Third Party,544
+M103910,Telematics,1222
+M103912,Third Party,1082
+M103914,Third Party,834
+M103916,Third Party,647
+M103917,Comprehensive,621
+M103918,Comprehensive,658
+M103919,Third Party,855
+M103920,Telematics,284
+M103921,Telematics,917
+M103922,Comprehensive,838
+M103923,Third Party,420
+M103924,Comprehensive,523
+M103925,Third Party,548
+M103926,Telematics,1174
+M103927,Telematics,1186
+M103928,Third Party,1039
+M103929,Third Party,941
+M103930,Comprehensive,1203
+M103931,Third Party,992
+M103932,Comprehensive,658
+M103933,Comprehensive,627
+M103934,Third Party,921
+M103935,Comprehensive,676
+M103936,Third Party,718
+M103937,Comprehensive,1223
+M103938,Comprehensive,1162
+M103939,Comprehensive,868
+M103940,Comprehensive,594
+M103942,Comprehensive,709
+M103943,Third Party,598
+M103944,Third Party,686
+M103945,Comprehensive,634
+M103946,Third Party,711
+M103947,Third Party,762
+M103948,Third Party,903
+M103949,Third Party,1141
+M103951,Third Party,792
+M103952,Comprehensive,481
+M103954,Comprehensive,459
+M103955,Comprehensive,911
+M103956,Third Party,1248
+M103957,Comprehensive,576
+M103958,Telematics,365
+M103959,Comprehensive,360
+M103960,Comprehensive,545
+M103961,Comprehensive,1205
+M103962,Third Party,1037
+M103963,Comprehensive,1042
+M103964,Third Party,602
+M103965,Third Party,1203
+M103966,Comprehensive,675
+M103967,Third Party,668
+M103969,Third Party,1189
+M103970,Third Party,1014
+M103971,Comprehensive,560
+M103972,Third Party,911
+M103973,Third Party,619
+M103974,Telematics,880
+M103976,Comprehensive,413
+M103977,Telematics,319
+M103979,Telematics,1214
+M103980,Comprehensive,349
+M103981,Third Party,669
+M103982,Comprehensive,469
+M103983,Comprehensive,294
+M103984,Third Party,1007
+M103985,Comprehensive,554
+M103986,Comprehensive,1054
+M103987,Third Party,813
+M103988,Telematics,907
+M103989,Comprehensive,928
+M103990,Comprehensive,466
+M103991,Comprehensive,722
+M103992,Comprehensive,1034
+M103993,Telematics,507
+M103994,Comprehensive,390
+M103995,Third Party,682
+M103998,Comprehensive,1147
+M103999,Telematics,592
+M104000,Comprehensive,653
+M104002,Telematics,402
+M104003,Third Party,985
+M104004,Telematics,607
+M104005,Comprehensive,444
+M104006,Telematics,378
+M104007,Comprehensive,584
+M104009,Third Party,477
+M104010,Third Party,760
+M104011,Comprehensive,693
+M104012,Comprehensive,761
+M104013,Comprehensive,635
+M104014,Telematics,374
+M104015,Comprehensive,1033
+M104016,Comprehensive,811
+M104018,Third Party,458
+M104019,Third Party,352
+M104021,Comprehensive,1191
+M104022,Comprehensive,1175
+M104025,Third Party,463
+M104026,Third Party,689
+M104027,Comprehensive,844
+M104028,Comprehensive,705
+M104030,Third Party,1091
+M104031,Comprehensive,839
+M104032,Telematics,537
+M104033,Third Party,1038
+M104034,Telematics,1128
+M104035,Comprehensive,347
+M104036,Comprehensive,1105
+M104037,Third Party,961
+M104038,Comprehensive,1170
+M104041,Comprehensive,1163
+M104042,Comprehensive,328
+M104043,Comprehensive,706
+M104044,Comprehensive,349
+M104045,Comprehensive,292
+M104046,Comprehensive,1169
+M104047,Third Party,519
+M104048,Comprehensive,338
+M104050,Third Party,1192
+M104052,Third Party,675
+M104053,Third Party,394
+M104054,Telematics,527
+M104055,Telematics,293
+M104056,Comprehensive,936
+M104057,Comprehensive,1187
+M104058,Third Party,659
+M104059,Third Party,1117
+M104060,Comprehensive,612
+M104061,Telematics,726
+M104062,Telematics,487
+M104063,Telematics,285
+M104064,Comprehensive,438
+M104065,Comprehensive,846
+M104066,Comprehensive,376
+M104067,Comprehensive,1072
+M104068,Comprehensive,1169
+M104069,Comprehensive,557
+M104070,Telematics,542
+M104071,Comprehensive,447
+M104072,Third Party,677
+M104073,Comprehensive,1157
+M104074,Telematics,658
+M104076,Telematics,1024
+M104077,Third Party,592
+M104078,Comprehensive,714
+M104079,Comprehensive,758
+M104080,Third Party,1157
+M104081,Third Party,763
+M104082,Telematics,869
+M104084,Comprehensive,1108
+M104085,Comprehensive,1195

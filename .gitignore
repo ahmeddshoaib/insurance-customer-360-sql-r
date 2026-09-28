@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.Rhistory
+.Rproj.user/
+
+# Only synthetic demo inputs are public.
+data/*
+!data/demo/
+!data/demo/*.csv
+*.accdb
+*.mdb
+
