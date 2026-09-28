@@ -1,8 +1,8 @@
 # Insurance Customer 360 — SQL + R
 
-A customer-centric analytics foundation that integrates demographic records with motor, health and travel policies, preserves customers without a policy, audits data quality and exposes cross-sell and channel opportunities.
+This project joins customer records with motor, health and travel policy tables while preserving customers who do not own every product. The resulting customer-level table supports product-ownership, cross-sell and communication-channel analysis.
 
-The original MSc project analysed **4,085 customer records** across four source tables. This public rebuild replaces Microsoft Access-specific queries and unavailable university files with portable DuckDB SQL and a clearly labelled synthetic dataset that preserves the original relational structure.
+The original MSc project analysed **4,085 customer records** across four source tables. For GitHub, I replaced the Microsoft Access-specific queries with portable DuckDB SQL and used a clearly labelled synthetic dataset that preserves the original relational structure.
 
 ## Decision outcome
 
@@ -75,7 +75,7 @@ Rscript R/customer_insights.R
 python -m unittest discover -s tests -v
 ```
 
-## Public evidence boundary
+## Data availability
 
 The source university spreadsheets and Access database are not included because their redistribution status is unclear. All files under `data/demo/`, `outputs/` and `figures/` are synthetic or derived from synthetic inputs. The SQL and R code are the portfolio artefacts.
 
@@ -88,5 +88,5 @@ The source university spreadsheets and Access database are not included because 
 
 ## Author
 
-**Muhammad Ahmed Shoaib** — SQL, customer analytics, data quality and decision support.
-
+**Muhammad Ahmed Shoaib**<br>
+SQL, customer analytics, data quality and decision support.
