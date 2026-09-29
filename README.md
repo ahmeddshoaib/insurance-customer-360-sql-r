@@ -4,6 +4,16 @@ This project joins customer records with motor, health and travel policy tables 
 
 The original MSc project analysed **4,085 customer records** across four source tables. For GitHub, I replaced the Microsoft Access-specific queries with portable DuckDB SQL and used a clearly labelled synthetic dataset that preserves the original relational structure.
 
+## Business problem
+
+Product teams often see separate policy systems rather than one customer relationship. A customer can hold motor, health, travel or several products, and a careless inner join can silently remove people who do not own every product. This project creates a dependable customer-level view before any cross-sell or channel recommendation is made.
+
+The analytical value comes from preserving the meaning of absence. A missing health-policy match can be valid non-ownership, while an orphan foreign key is a data-quality problem. The workflow separates those cases and reconciles the row count back to the customer base.
+
+## What I built
+
+I profiled the four source tables, checked key relationships, designed the integrated customer grain, created product-ownership and policy-count features, and wrote commercial queries for cross-sell and communication analysis. The public version ports the logic to DuckDB, creates a reproducible synthetic source system, adds assertions for uniqueness and referential integrity, and uses R to visualise the resulting customer and channel patterns.
+
 ## Decision outcome
 
 The customer 360 supports three commercial questions:
@@ -49,6 +59,8 @@ customers (one row per customer)
 | Channel by age/location | Target contact strategy |
 | Family-household ownership | Bundle and advice-led outreach |
 | Data-quality audit | Fix upstream controls before scaling analytics |
+
+The outputs support campaign design rather than automatic targeting. A single-policy customer may be a cross-sell candidate, but suitability, consent, eligibility and actual response evidence must still be applied before contact. The Customer 360 establishes a trustworthy analytical base for those later decisions.
 
 ![Synthetic channel mix](figures/channel_by_age.png)
 
