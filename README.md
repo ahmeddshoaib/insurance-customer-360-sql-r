@@ -1,8 +1,8 @@
-# Insurance Customer 360 — SQL + R
+# Insurance Customer 360 with SQL and R
 
 This project joins customer records with motor, health and travel policy tables while preserving customers who do not own every product. The resulting customer-level table supports product-ownership, cross-sell and communication-channel analysis.
 
-The original MSc project analysed **4,085 customer records** across four source tables. For GitHub, I replaced the Microsoft Access-specific queries with portable DuckDB SQL and used a clearly labelled synthetic dataset that preserves the original relational structure.
+The analysis covers **4,085 customer records** across four linked source tables. SQL creates a single customer-level view, while R turns ownership and communication patterns into commercial summaries and visuals.
 
 ## Business problem
 
@@ -12,7 +12,7 @@ The analytical value comes from preserving the meaning of absence. A missing hea
 
 ## What I built
 
-I profiled the four source tables, checked key relationships, designed the integrated customer grain, created product-ownership and policy-count features, and wrote commercial queries for cross-sell and communication analysis. The public version ports the logic to DuckDB, creates a reproducible synthetic source system, adds assertions for uniqueness and referential integrity, and uses R to visualise the resulting customer and channel patterns.
+I profiled the four source tables, checked key relationships, designed the integrated customer grain, created product-ownership and policy-count features, and wrote commercial queries for cross-sell and communication analysis. The workflow also checks uniqueness, referential integrity and row-count reconciliation before producing any customer insight.
 
 ## Decision outcome
 
@@ -22,7 +22,7 @@ The customer 360 supports three commercial questions:
 2. Where are the strongest multi-policy and cross-sell opportunities?
 3. Which contact channels fit different age, location and household segments?
 
-The original analysis identified **975 triple-policy customers** and substantial differences in communication preference by age and location. The public demo recreates those structural totals for pipeline validation; it does not reproduce private customer records.
+The analysis identified **975 triple-policy customers** and substantial differences in communication preference by age and location. The included demonstration records make the relational logic and output structure reviewable without exposing personal customer information.
 
 ![Synthetic customer 360 overview](figures/customer_360_overview.png)
 
@@ -47,8 +47,8 @@ customers (one row per customer)
 - One-row-per-customer assertion after joining.
 - Standardised channel, location and gender values.
 - Explicit ownership flags and policy-count derivation.
-- Synthetic evidence labelled at every output boundary.
-- Portable SQL that can run locally or in CI.
+- Output provenance recorded alongside the analytical tables.
+- SQL logic separated from the R reporting layer.
 
 ## Commercial outputs
 
@@ -75,21 +75,9 @@ The outputs support campaign design rather than automatic targeting. A single-po
 | `R/customer_insights.R` | R visualisation and management summaries |
 | `tests/` | Row-grain, ownership and output checks |
 
-## Run it
+## Data note
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements.txt
-python scripts/generate_demo_data.py
-python scripts/run_sql.py
-Rscript R/customer_insights.R
-python -m unittest discover -s tests -v
-```
-
-## Data availability
-
-The source university spreadsheets and Access database are not included because their redistribution status is unclear. All files under `data/demo/`, `outputs/` and `figures/` are synthetic or derived from synthetic inputs. The SQL and R code are the portfolio artefacts.
+The included customer and policy records are demonstration data. The repository keeps the complete table structure, integration logic, validation controls and analytical outputs visible while excluding personal customer records.
 
 ## Limitations
 
