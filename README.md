@@ -75,6 +75,21 @@ The outputs support campaign design rather than automatic targeting. A single-po
 | `R/customer_insights.R` | R visualisation and management summaries |
 | `tests/` | Row-grain, ownership and output checks |
 
+## Run locally
+
+Use Python 3.11 or later.
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python scripts/run_sql.py
+python -m pytest -q
+Rscript R/customer_insights.R
+```
+
+The Python workflow uses the synthetic source tables in the repository. The R step reads the validated exported tables.
+
 ## Data note
 
 The included customer and policy records are demonstration data. The repository keeps the complete table structure, integration logic, validation controls and analytical outputs visible while excluding personal customer records.
